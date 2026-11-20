@@ -1,0 +1,27 @@
+var company__func_8h =
+[
+    [ "ChangeOwnershipOfCompanyItems", "d6/db2/company__func_8h.html#a2a17e5e94cb229c1df325b0ab4a50f8a", null ],
+    [ "CheckCompanyHasMoney", "d6/db2/company__func_8h.html#a7ca25f59a873c146c2be9c5b4fb58f0c", null ],
+    [ "CheckOwnership", "d6/db2/company__func_8h.html#a1ef77329c90e282e65c14aca457f33d2", null ],
+    [ "CheckTakeoverVehicleLimit", "d6/db2/company__func_8h.html#a8f1f7f888327f1b061bbb71dce2a9d7a", null ],
+    [ "CheckTileOwnership", "d6/db2/company__func_8h.html#a5f499024c15ab45c61494423c821c707", null ],
+    [ "CompanyAdminUpdate", "d6/db2/company__func_8h.html#a969f9e642841b129839c72f90ce6c6d8", null ],
+    [ "CompanyServiceInterval", "d6/db2/company__func_8h.html#a7834894de2fc8731099804cde0bf4d34", null ],
+    [ "GetAvailableMoney", "d6/db2/company__func_8h.html#ac4abcef6102f650d585c8ebb7e620204", null ],
+    [ "GetAvailableMoneyForCommand", "d6/db2/company__func_8h.html#a940c257ae4b7e01835899cca757c3bd5", null ],
+    [ "GetCompanyPalette", "d6/db2/company__func_8h.html#a7a15b314aa5645fa620fcb6ae4783746", null ],
+    [ "GetFirstPlayableCompanyID", "d6/db2/company__func_8h.html#a866b35841c6213f061b1b371271079d3", null ],
+    [ "GetParamsForOwnedBy", "d6/db2/company__func_8h.html#a1816b3e12956ed3a66dc4f2c6c328cc1", null ],
+    [ "IsInteractiveCompany", "d6/db2/company__func_8h.html#a16f59625ed554041540b8e56fa26af6c", null ],
+    [ "IsLocalCompany", "d6/db2/company__func_8h.html#aba00d82e58ae3d7829c560ff97f48845", null ],
+    [ "SetLocalCompany", "d6/db2/company__func_8h.html#adeb973626927619ae2e8eea08902c647", null ],
+    [ "ShowBuyCompanyDialog", "d6/db2/company__func_8h.html#a40700ae470fe0ebac6690b8a887b53b3", null ],
+    [ "SubtractMoneyFromCompany", "d6/db2/company__func_8h.html#aac21f58471c2ef846c280d79fed85e86", null ],
+    [ "SubtractMoneyFromCompanyFract", "d6/db2/company__func_8h.html#ab7d97f3caa205d73393bfa7ce8a265f1", null ],
+    [ "UpdateCompanyLiveries", "d6/db2/company__func_8h.html#a5e36d33d7216c64ecb5aac7d6b7c52b9", null ],
+    [ "UpdateLandscapingLimits", "d6/db2/company__func_8h.html#ac59d5a90558fda8db8eecc242fbdb896", null ],
+    [ "_company_colours", "d6/db2/company__func_8h.html#a59c888d3fa6cba8d2b2b0ef31f11c6ac", null ],
+    [ "_company_manager_face", "d6/db2/company__func_8h.html#a3d5342b2f94b06016d7fc478e74ed0e9", null ],
+    [ "_current_company", "d6/db2/company__func_8h.html#ae47997b87a07816e8490f5815e9b82f8", null ],
+    [ "_local_company", "d6/db2/company__func_8h.html#ac5dff8979b01407a075e1d46549931bf", null ]
+];

@@ -1,0 +1,25 @@
+var classNWidgetResizeBase =
+[
+    [ "NWidgetResizeBase", "d5/d87/classNWidgetResizeBase.html#a5335c517f9a12e0da9e9a8b788bfa3ac", null ],
+    [ "AssignSizePosition", "d5/d87/classNWidgetResizeBase.html#ad57bc7012290f3896de99ff37578f03b", null ],
+    [ "SetAspect", "d5/d87/classNWidgetResizeBase.html#afb167058a15f06a11a7b3584a4d05bc9", null ],
+    [ "SetAspect", "d5/d87/classNWidgetResizeBase.html#a0edf350459434f4ecaf54f13981c9608", null ],
+    [ "SetFill", "d5/d87/classNWidgetResizeBase.html#a803f30ece1c9f52bfffa9a580d486cdf", null ],
+    [ "SetMinimalSize", "d5/d87/classNWidgetResizeBase.html#a14e5da6852d239fca875e615a12b753e", null ],
+    [ "SetMinimalSizeAbsolute", "d5/d87/classNWidgetResizeBase.html#afdb1436c5a8864e4bd4a02d93fe06d79", null ],
+    [ "SetMinimalTextLines", "d5/d87/classNWidgetResizeBase.html#aaceac576b0c4f68934330428a6f3e8b0", null ],
+    [ "SetResize", "d5/d87/classNWidgetResizeBase.html#aecdd503fda6de8db8917b77a5b2fa59a", null ],
+    [ "SetToolbarMinimalSize", "d5/d87/classNWidgetResizeBase.html#a82e1ebbb926554c5666bf5d29a4016db", null ],
+    [ "UpdateMultilineWidgetSize", "d5/d87/classNWidgetResizeBase.html#ac90d643e4b6b0f68bfe23c91c5dfd2c1", null ],
+    [ "UpdateSize", "d5/d87/classNWidgetResizeBase.html#a16c44f4a7f285b23e130c3f7aa3944cc", null ],
+    [ "UpdateVerticalSize", "d5/d87/classNWidgetResizeBase.html#ae04e059bdc019e75b1a5c62369d5c373", null ],
+    [ "absolute", "d5/d87/classNWidgetResizeBase.html#a0b741f07b7225b9dd57c508278dbc776", null ],
+    [ "min_x", "d5/d87/classNWidgetResizeBase.html#a2bd44fe4dd7108899ff91859fd6e0185", null ],
+    [ "min_y", "d5/d87/classNWidgetResizeBase.html#aba3e54214cb5dbdff55d236eba5d52f7", null ],
+    [ "toolbar_size", "d5/d87/classNWidgetResizeBase.html#aeec5a8fa849c55828d8376140e075f90", null ],
+    [ "uz_min_x", "d5/d87/classNWidgetResizeBase.html#a57c3b2ab48b03e5e3a7adfd6cca23a5d", null ],
+    [ "uz_min_y", "d5/d87/classNWidgetResizeBase.html#abcda95e692225deac2f49e044ec1ae43", null ],
+    [ "uz_text_lines", "d5/d87/classNWidgetResizeBase.html#a7456bf02399b16ec56ab231f2df2fd23", null ],
+    [ "uz_text_size", "d5/d87/classNWidgetResizeBase.html#a3ad5c1431b590e1e97366f0225ada58e", null ],
+    [ "uz_text_spacing", "d5/d87/classNWidgetResizeBase.html#a0441012fdc1112b167a80d211f355018", null ]
+];

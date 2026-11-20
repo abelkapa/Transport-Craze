@@ -1,0 +1,27 @@
+var strings__func_8h =
+[
+    [ "MissingGlyphSearcher", "d1/d1f/classMissingGlyphSearcher.html", "d1/d1f/classMissingGlyphSearcher" ],
+    [ "AppendStringInPlace", "de/dbc/strings__func_8h.html#a28882ba2795e2ff9a70f888e0d251c2e", null ],
+    [ "CheckForMissingGlyphs", "de/dbc/strings__func_8h.html#a6153574f21c4e860ce0fbece7c0c2b8e", null ],
+    [ "ConvertDisplaySpeedToKmhishSpeed", "de/dbc/strings__func_8h.html#a41c202dfbe3abb111e26b69c033508b2", null ],
+    [ "ConvertKmhishSpeedToDisplaySpeed", "de/dbc/strings__func_8h.html#a6c27766409a448ccef341d68a9093857", null ],
+    [ "GetCurrentLanguageIsoCode", "de/dbc/strings__func_8h.html#a4ec1ab1a6577a409d8324f1b09080551", null ],
+    [ "GetEllipsis", "de/dbc/strings__func_8h.html#af2e7cf2ad05452fd285c0fe9c537ace8", null ],
+    [ "GetEncodedString", "de/dbc/strings__func_8h.html#a41a2b5a73d69dadd62712dbc82d80e47", null ],
+    [ "GetEncodedString", "de/dbc/strings__func_8h.html#a22f7218c0835518a8fd87d1ede4cc83e", null ],
+    [ "GetEncodedStringIfValid", "de/dbc/strings__func_8h.html#a1a0a13ccddd022cc98ec448950f04afb", null ],
+    [ "GetEncodedStringWithArgs", "de/dbc/strings__func_8h.html#a08320d1c97d902d0bd05ad25fd3bc75c", null ],
+    [ "GetListSeparator", "de/dbc/strings__func_8h.html#a0d4c35eea79f72195f9239c2866df96d", null ],
+    [ "GetParamMaxDigits", "de/dbc/strings__func_8h.html#afa2b9a6197c78327a1bc176fe6eabe34", null ],
+    [ "GetParamMaxValue", "de/dbc/strings__func_8h.html#a449f4f636d03de954a35a037858878ed", null ],
+    [ "GetString", "de/dbc/strings__func_8h.html#a4e48343b61ade18d7075a83da9212268", null ],
+    [ "GetString", "de/dbc/strings__func_8h.html#a84837f54b7284056b1d0f710e2140b26", null ],
+    [ "GetStringIndex", "de/dbc/strings__func_8h.html#ab0eca0313b15cd9395095bdce9602f52", null ],
+    [ "GetStringTab", "de/dbc/strings__func_8h.html#a3f4ef88ba46b96b7d733878a2a9b2c25", null ],
+    [ "InitializeLanguagePacks", "de/dbc/strings__func_8h.html#a7873d07c16edd42664c7318e46bb02a6", null ],
+    [ "MakeParameters", "de/dbc/strings__func_8h.html#a88402efe58447b8492d01968232fb48b", null ],
+    [ "MakeStringID", "de/dbc/strings__func_8h.html#aab78f9c8242f2d1bbb9a3b6613299fd4", null ],
+    [ "PackVelocity", "de/dbc/strings__func_8h.html#aaf073522d13265f5e81293c37e55cf90", null ],
+    [ "PrepareArgsForNextRun", "de/dbc/strings__func_8h.html#a1bcc6b466ae33192fd89f41193fb8e0b", null ],
+    [ "_current_text_dir", "de/dbc/strings__func_8h.html#a9ac657d09b66103d655dc74e155ab77d", null ]
+];

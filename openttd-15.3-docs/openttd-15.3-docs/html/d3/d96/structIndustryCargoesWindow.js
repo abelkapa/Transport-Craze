@@ -1,0 +1,27 @@
+var structIndustryCargoesWindow =
+[
+    [ "CalculatePositionInWidget", "d3/d96/structIndustryCargoesWindow.html#acfc871b9d3c178959c71c78fa65d9be0", null ],
+    [ "ComputeCargoDisplay", "d3/d96/structIndustryCargoesWindow.html#ad3bcd3a0f181846f9abce57aa24074c1", null ],
+    [ "ComputeIndustryDisplay", "d3/d96/structIndustryCargoesWindow.html#abb5b2478d35f701b75bcbd72906202bc", null ],
+    [ "CountMatchingAcceptingIndustries", "d3/d96/structIndustryCargoesWindow.html#a588a0a35ab84833bea80a946577fa078", null ],
+    [ "CountMatchingProducingIndustries", "d3/d96/structIndustryCargoesWindow.html#a919bd8ed76e32a23bf20a324685584a2", null ],
+    [ "DrawWidget", "d3/d96/structIndustryCargoesWindow.html#a684b00218147d694dfeeacfd9ba20e46", null ],
+    [ "GetWidgetString", "d3/d96/structIndustryCargoesWindow.html#a2f3dbbeb804ece11c0b7450148b05dc8", null ],
+    [ "HasCommonValidCargo", "d3/d96/structIndustryCargoesWindow.html#ad6bd1cee7f381736e1b656e30ff87d49", null ],
+    [ "HousesCanAccept", "d3/d96/structIndustryCargoesWindow.html#ae39830bf1047fe03f433c6b09f9611c1", null ],
+    [ "HousesCanSupply", "d3/d96/structIndustryCargoesWindow.html#a341f610a1b82ffc5b671102395abf02c", null ],
+    [ "NotifySmallmap", "d3/d96/structIndustryCargoesWindow.html#abd7ea273b919c27323548f945debc6c5", null ],
+    [ "OnClick", "d3/d96/structIndustryCargoesWindow.html#a4e5ceef993ab4b59c3a864e15585286d", null ],
+    [ "OnDropdownSelect", "d3/d96/structIndustryCargoesWindow.html#aff6a50aa344c495ed67c4709ac025eca", null ],
+    [ "OnInit", "d3/d96/structIndustryCargoesWindow.html#a32d70f469f014bc50bf9df2f47773968", null ],
+    [ "OnInvalidateData", "d3/d96/structIndustryCargoesWindow.html#a107bbbd6b01cfce0c76758f471cc93ec", null ],
+    [ "OnResize", "d3/d96/structIndustryCargoesWindow.html#a65efb62f7896dd1b58a12eb614b50bbf", null ],
+    [ "OnTooltip", "d3/d96/structIndustryCargoesWindow.html#a41d57cb128b82c9b0e58f99a4c5a7594", null ],
+    [ "PlaceIndustry", "d3/d96/structIndustryCargoesWindow.html#a64a655bc8e06d1c9ade7825ed50f21ab", null ],
+    [ "ShortenCargoColumn", "d3/d96/structIndustryCargoesWindow.html#a4f8342f20fdd33832dddb3b9b245c0dd", null ],
+    [ "UpdateWidgetSize", "d3/d96/structIndustryCargoesWindow.html#ae1c118f1616b643e6baa995e5b94284b", null ],
+    [ "cargo_textsize", "d3/d96/structIndustryCargoesWindow.html#a0089ad20039ee9211a3d6cee29cbb09c", null ],
+    [ "fields", "d3/d96/structIndustryCargoesWindow.html#a9177632faaa8246f3439f114b7f17900", null ],
+    [ "ind_cargo", "d3/d96/structIndustryCargoesWindow.html#ad43ad1aa8d79b593b251e20828fd8be9", null ],
+    [ "ind_textsize", "d3/d96/structIndustryCargoesWindow.html#a4cc60672fac18c5ae396a4c2a4b2e314", null ]
+];

@@ -1,0 +1,27 @@
+var structLanguagePackHeader =
+[
+    [ "GetCaseIndex", "dc/d32/structLanguagePackHeader.html#a03fc612fd7fe492615f374908b970ebf", null ],
+    [ "GetGenderIndex", "dc/d32/structLanguagePackHeader.html#aff542004c66ef55f486841da9d669696", null ],
+    [ "IsReasonablyFinished", "dc/d32/structLanguagePackHeader.html#a1a2ca9efee7e656f093dec69f807ff76", null ],
+    [ "IsValid", "dc/d32/structLanguagePackHeader.html#a17a1a61f057da6bca06317a0faf845d1", null ],
+    [ "cases", "dc/d32/structLanguagePackHeader.html#a74bfb77f7383aed6a4a95c19cfe5a919", null ],
+    [ "digit_decimal_separator", "dc/d32/structLanguagePackHeader.html#ac3c2b34b24ce399f1093ae4df818f4d7", null ],
+    [ "digit_group_separator", "dc/d32/structLanguagePackHeader.html#a80b0227c5184429a744485d0ef22ab3d", null ],
+    [ "digit_group_separator_currency", "dc/d32/structLanguagePackHeader.html#af1ac0f0a3cfa515dfd97245b8df7c5bf", null ],
+    [ "genders", "dc/d32/structLanguagePackHeader.html#aae06e2d8d44e1259f2bdd994a46055dd", null ],
+    [ "IDENT", "dc/d32/structLanguagePackHeader.html#afbc0d7690b26f5a7ce629852b12035ca", null ],
+    [ "ident", "dc/d32/structLanguagePackHeader.html#ac34f0cd8aa479ffbe2af36a229c984f9", null ],
+    [ "isocode", "dc/d32/structLanguagePackHeader.html#a24c04b0bf85a1e269554de836db91bb3", null ],
+    [ "missing", "dc/d32/structLanguagePackHeader.html#a7ffd6e4e610c5d1a6fefef700d3d5924", null ],
+    [ "name", "dc/d32/structLanguagePackHeader.html#a5831008e346c6871d93c1808156b31c2", null ],
+    [ "newgrflangid", "dc/d32/structLanguagePackHeader.html#a97cfaeb8769c59cc50db72d60baa3405", null ],
+    [ "num_cases", "dc/d32/structLanguagePackHeader.html#ac2010139b997812d003634af625228ba", null ],
+    [ "num_genders", "dc/d32/structLanguagePackHeader.html#a703b934e3fb5fd5332d5c5510379e5fb", null ],
+    [ "offsets", "dc/d32/structLanguagePackHeader.html#a63255f0a56f36971fdcbfa01c19eb006", null ],
+    [ "own_name", "dc/d32/structLanguagePackHeader.html#a4020d65f35e96f0b5031c39321bd2baf", null ],
+    [ "pad", "dc/d32/structLanguagePackHeader.html#a4cfa49121dcb6ebdd0a9c99a6770e32c", null ],
+    [ "plural_form", "dc/d32/structLanguagePackHeader.html#a0a52773103499cc430c76ca2b2a6d6b1", null ],
+    [ "text_dir", "dc/d32/structLanguagePackHeader.html#aa0533d3ae38b57d37032da389003f618", null ],
+    [ "version", "dc/d32/structLanguagePackHeader.html#a1ae6b9665dc4889d7e50ba14b55f776e", null ],
+    [ "winlangid", "dc/d32/structLanguagePackHeader.html#a640549304b887311679aa8f5d8df5473", null ]
+];

@@ -1,0 +1,25 @@
+var structSpecializedVehicle =
+[
+    [ "SpecializedVehicleBase", "d5/d32/structSpecializedVehicle.html#adacdf5261dd3f01f59bcecce1baf62d9", null ],
+    [ "SpecializedVehicle", "d5/d32/structSpecializedVehicle.html#a680f1734b1fb616b64528fe633f102e1", null ],
+    [ "First", "d5/d32/structSpecializedVehicle.html#a46a7b858cf3cc54b651b7ac63b457839", null ],
+    [ "From", "d5/d32/structSpecializedVehicle.html#a2520d12118d341139a0d0a5c3cf6f826", null ],
+    [ "From", "d5/d32/structSpecializedVehicle.html#a349f26491b529097c4d7a49da8e64cae", null ],
+    [ "Get", "d5/d32/structSpecializedVehicle.html#a67d176e5fae9f245ad4ee0c49e68a570", null ],
+    [ "GetFirstEnginePart", "d5/d32/structSpecializedVehicle.html#abb750cf26b2a872aaf29c4a95bc3f7f9", null ],
+    [ "GetFirstEnginePart", "d5/d32/structSpecializedVehicle.html#a3ad43d7c80f1c24df58547ad1f07f257", null ],
+    [ "GetIfValid", "d5/d32/structSpecializedVehicle.html#a3a64d747c4c7784a669e3480e136ed6b", null ],
+    [ "GetLastEnginePart", "d5/d32/structSpecializedVehicle.html#ab06b79bdda119829e9933d0e612c9723", null ],
+    [ "GetNextArticulatedPart", "d5/d32/structSpecializedVehicle.html#a375ed4bd7cf7d8a5e21b36aea70703f9", null ],
+    [ "GetNextArticulatedPart", "d5/d32/structSpecializedVehicle.html#a6148314174aad5fb64b9ea21b5c290d4", null ],
+    [ "GetNextVehicle", "d5/d32/structSpecializedVehicle.html#a60907a70d05863fde34043e1cdf2ddd4", null ],
+    [ "GetPrevVehicle", "d5/d32/structSpecializedVehicle.html#a50200823989d1962047e746a1bf81ac0", null ],
+    [ "IsValidID", "d5/d32/structSpecializedVehicle.html#a396e0edb1f19102c066e3980fb4837b6", null ],
+    [ "Iterate", "d5/d32/structSpecializedVehicle.html#a0b18f545f25e7021055734e78c72fe6a", null ],
+    [ "Last", "d5/d32/structSpecializedVehicle.html#ae099408434c26c4f5d90f7df45b68a73", null ],
+    [ "Last", "d5/d32/structSpecializedVehicle.html#afb5e43a9e35763bcfdc57ae18f5c908b", null ],
+    [ "Next", "d5/d32/structSpecializedVehicle.html#a0a2b2a9210c8c9a6a45a33f05aae4ff3", null ],
+    [ "Previous", "d5/d32/structSpecializedVehicle.html#a199ab3c5729d71a6e19be9e5687c0f85", null ],
+    [ "UpdateViewport", "d5/d32/structSpecializedVehicle.html#a820231ac999228d495ade2b35798692c", null ],
+    [ "EXPECTED_TYPE", "d5/d32/structSpecializedVehicle.html#ae5e5cfb2c7a7fb4dcf60bc94aaa9f760", null ]
+];

@@ -1,0 +1,27 @@
+var structNewGRFParametersWindow =
+[
+    [ "DrawWidget", "d0/d5c/structNewGRFParametersWindow.html#adfebc380a13e96b830ac29d842c5e30f", null ],
+    [ "GetDummyParameterInfo", "d0/d5c/structNewGRFParametersWindow.html#abf59314106796373b43023678cbc8437", null ],
+    [ "GetParameterInfo", "d0/d5c/structNewGRFParametersWindow.html#ad8484859f4560aef2957aa40569206b1", null ],
+    [ "GetWidgetString", "d0/d5c/structNewGRFParametersWindow.html#a146b5d8851d8303437faaeba92fec5e7", null ],
+    [ "HasParameterInfo", "d0/d5c/structNewGRFParametersWindow.html#a4b29156add9f32f3a1fd99af0dcf8030", null ],
+    [ "OnClick", "d0/d5c/structNewGRFParametersWindow.html#a4e7b0dd3917cfc655799743a5df67052", null ],
+    [ "OnDropdownClose", "d0/d5c/structNewGRFParametersWindow.html#a2e1f589ec2e444744d7765398d0f8916", null ],
+    [ "OnDropdownSelect", "d0/d5c/structNewGRFParametersWindow.html#a51420f1c1b41627f14c67ee6025547d7", null ],
+    [ "OnInvalidateData", "d0/d5c/structNewGRFParametersWindow.html#a3dea28d7f3eb4d31641228b627487a97", null ],
+    [ "OnPaint", "d0/d5c/structNewGRFParametersWindow.html#a376027e6fc496b9c184fc1c918eaf0a7", null ],
+    [ "OnQueryTextFinished", "d0/d5c/structNewGRFParametersWindow.html#a25c07a26f1dca17af81de217617814fb", null ],
+    [ "OnResize", "d0/d5c/structNewGRFParametersWindow.html#af08a6d158b22060de4729863b2cdc7ec", null ],
+    [ "UpdateWidgetSize", "d0/d5c/structNewGRFParametersWindow.html#a6f5dad51522d7a6210b02ec6a8782471", null ],
+    [ "action14present", "d0/d5c/structNewGRFParametersWindow.html#a6e8143b5fb3751ece4fbe4a86ce36fb3", null ],
+    [ "clicked_button", "d0/d5c/structNewGRFParametersWindow.html#ab6594e0f6d0b9f59c52d3d53b49cd2de", null ],
+    [ "clicked_dropdown", "d0/d5c/structNewGRFParametersWindow.html#a12c5a6e0bb38a4dc65e1f3366277d43f", null ],
+    [ "clicked_increase", "d0/d5c/structNewGRFParametersWindow.html#a79f909a1b570305db9bddb9947e1da90", null ],
+    [ "clicked_row", "d0/d5c/structNewGRFParametersWindow.html#a892db837ce859d6248ab3860b3a7cad9", null ],
+    [ "closing_dropdown", "d0/d5c/structNewGRFParametersWindow.html#a8d6875372460fe581f2375ec37348eca", null ],
+    [ "dummy_parameter_info", "d0/d5c/structNewGRFParametersWindow.html#a4b513c87ba409ae6ceac891854c3653d", null ],
+    [ "editable", "d0/d5c/structNewGRFParametersWindow.html#a4a149d7bc73f29fde34e31e31fb58185", null ],
+    [ "grf_config", "d0/d5c/structNewGRFParametersWindow.html#ab4926ee5baad4454606e4eda786f0e26", null ],
+    [ "line_height", "d0/d5c/structNewGRFParametersWindow.html#a72d6e01c01b82bf57e7ba31dc55dc8da", null ],
+    [ "unclick_timeout", "d0/d5c/structNewGRFParametersWindow.html#a589dcf5ed777d388610894a98205df5f", null ]
+];

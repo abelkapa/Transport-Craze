@@ -1,0 +1,56 @@
+var cargotype_8h =
+[
+    [ "CargoSpec", "dd/dff/structCargoSpec.html", "dd/dff/structCargoSpec" ],
+    [ "CargoSpec::Iterator", "df/d68/structCargoSpec_1_1Iterator.html", null ],
+    [ "CargoSpec::IterateWrapper", "dc/d8c/structCargoSpec_1_1IterateWrapper.html", null ],
+    [ "CargoTypeComparator", "d8/d1e/structCargoTypeComparator.html", null ],
+    [ "CargoClass", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1", [
+      [ "Passengers", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a58650c036c66a591dbf8f6351fcaf8df", null ],
+      [ "Mail", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a4dfbb099eafd3c82e033bf92946d3ce6", null ],
+      [ "Express", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1ab144fa061545497bebee8c414efc99a9", null ],
+      [ "Armoured", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a6e7f4364605f6f69d36fe713c59190a4", null ],
+      [ "Bulk", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a4c3246a186dddf08c2c1165f04c2276d", null ],
+      [ "PieceGoods", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1aebf17bb187712a579669cf5886e67f9c", null ],
+      [ "Liquid", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a5635bf596d97c1c2e7afe481ed060774", null ],
+      [ "Refrigerated", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a78a87987bad67cba14a382a476fdfd7c", null ],
+      [ "Hazardous", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a4375064bc32e1f130cc34e3ad5edc38d", null ],
+      [ "Covered", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1afdfb151f92192e1a8d52e7b94fbd893d", null ],
+      [ "Oversized", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a5cd53b781fd1af73106f4a5420b5a01a", null ],
+      [ "Powderized", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a1f7808972d1eeecffd18af256a2f69f1", null ],
+      [ "NotPourable", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a0e9b6702c15617ea9b14e07150359342", null ],
+      [ "Potable", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a5c41130cc4edfa3621e18f07e30f1353", null ],
+      [ "NonPotable", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1a437d0ee2f7597983f0e55bfa2b6bbb17", null ],
+      [ "Special", "df/d2e/cargotype_8h.html#aa191a4e90660d7fd660631612142e8e1ab4c2b550635fe54fd29f2b64dfaca55d", null ]
+    ] ],
+    [ "TownAcceptanceEffect", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bd", [
+      [ "TAE_BEGIN", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda2c15cd66072d807162cd7f43b3e8a692", null ],
+      [ "TAE_NONE", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda3c56b4231d0d536c286538119f05fbed", null ],
+      [ "TAE_PASSENGERS", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda466dccdfd0a893b8c9cdfb3c63448f51", null ],
+      [ "TAE_MAIL", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda4a6656776e80d1cda84da66673c29eb1", null ],
+      [ "TAE_GOODS", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda36a91a76148e07e3bd5a96fd2952cf87", null ],
+      [ "TAE_WATER", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bdacdbbdf6ac981c8a99fa301a5d2faee9a", null ],
+      [ "TAE_FOOD", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bdac3f8f165d8d2141edb25138e110d9edc", null ],
+      [ "TAE_END", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda20ea8e25bdc2745eff229ab73dba7a88", null ],
+      [ "NUM_TAE", "df/d2e/cargotype_8h.html#ad53f82065529ab7cd60169c9f493f6bda1ef268746386be9acde8cff032a595c5", null ]
+    ] ],
+    [ "TownProductionEffect", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66", [
+      [ "TPE_NONE", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66a45d22d7a4d3bdd3c8a75d4a00f7da7d1", null ],
+      [ "TPE_PASSENGERS", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66a6cacc1a75f764b0aff55b2ecffe817bf", null ],
+      [ "TPE_MAIL", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66ae010b72fcaf65d0a25cb2026155d5719", null ],
+      [ "NUM_TPE", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66a111c8d6d42ca0a6b6917841bf64aba4f", null ],
+      [ "INVALID_TPE", "df/d2e/cargotype_8h.html#ab4b225de8d6ba4752a48eae0e8db9e66a2f7185793ba22d14987fc2d369a1dc98", null ]
+    ] ],
+    [ "BuildCargoAcceptanceString", "df/d2e/cargotype_8h.html#a9e203d85346b2e1e04c0d655bd394fac", null ],
+    [ "BuildCargoLabelMap", "df/d2e/cargotype_8h.html#a8aae14bb3cb9a8f6f60aa01e67c44fc6", null ],
+    [ "GetLargestCargoIconSize", "df/d2e/cargotype_8h.html#a2920e4d40b9e3635009ba8dccd61bac6", null ],
+    [ "InitializeSortedCargoSpecs", "df/d2e/cargotype_8h.html#abeb7679a806ab94f227c2d9d703245e6", null ],
+    [ "IsCargoInClass", "df/d2e/cargotype_8h.html#ae7a43eef135156b79c1821a8ce9f7dc7", null ],
+    [ "IsDefaultCargo", "df/d2e/cargotype_8h.html#a297f28248d7e5eb13e6d440d600d0372", null ],
+    [ "SetupCargoForClimate", "df/d2e/cargotype_8h.html#a9ede537521bd21ae535d4d7ba2d6b2c6", null ],
+    [ "_cargo_mask", "df/d2e/cargotype_8h.html#af4bf079c3209bafb01ca15f18f5d6ff4", null ],
+    [ "_sorted_cargo_specs", "df/d2e/cargotype_8h.html#aada99aea7dfe79a3c9304c039c2a72cb", null ],
+    [ "_sorted_cargo_types", "df/d2e/cargotype_8h.html#a2290b3e5c112376717e3cc3a32040d2b", null ],
+    [ "_sorted_standard_cargo_specs", "df/d2e/cargotype_8h.html#a5bbe38eb08dcff441fe65381ce1dcb83", null ],
+    [ "_standard_cargo_mask", "df/d2e/cargotype_8h.html#a7458ec619c6438ac4d1e95c705dc1739", null ],
+    [ "INVALID_CARGO_BITNUM", "df/d2e/cargotype_8h.html#a7582cfdd9392a47d426518d608eb440a", null ]
+];

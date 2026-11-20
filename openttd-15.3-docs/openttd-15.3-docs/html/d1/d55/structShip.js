@@ -1,0 +1,28 @@
+var structShip =
+[
+    [ "Ship", "d1/d55/structShip.html#ab7608fcfc4d27c678aacaf9bfd68a462", null ],
+    [ "~Ship", "d1/d55/structShip.html#adc6a4b80ad5e15053031b90cca25342c", null ],
+    [ "FindClosestDepot", "d1/d55/structShip.html#a9bbefa0ebe83604b7a4e2227458bb8b1", null ],
+    [ "GetCurrentMaxSpeed", "d1/d55/structShip.html#a66d36e1f36b6fcd441d98b958f75f623", null ],
+    [ "GetDisplayMaxSpeed", "d1/d55/structShip.html#a6c8f190624d9e59f4af1164f1fd61ce1", null ],
+    [ "GetDisplaySpeed", "d1/d55/structShip.html#acf5059d989b8e4d350571eb3c0e3ad28", null ],
+    [ "GetExpenseType", "d1/d55/structShip.html#afa8869239bf4873c9f5ca1b53cea60b6", null ],
+    [ "GetImage", "d1/d55/structShip.html#adfbd7d8d881e9e1f2721bb62bb3cf916", null ],
+    [ "GetOrderStationLocation", "d1/d55/structShip.html#a314bc7ee27f63ed96df04371c3db12b4", null ],
+    [ "GetRunningCost", "d1/d55/structShip.html#a27377ef1a634dc4079aeb1e4be03f879", null ],
+    [ "GetVehicleTrackdir", "d1/d55/structShip.html#aa5ef373a6ca14029c500cf50da28c7de", null ],
+    [ "IsInDepot", "d1/d55/structShip.html#ab3c46892fdfa3fb86405db6f0a598ede", null ],
+    [ "IsPrimaryVehicle", "d1/d55/structShip.html#aa27645485ad825e7af5d52eb0bfb19ab", null ],
+    [ "MarkDirty", "d1/d55/structShip.html#aa2751b0a0caab0bb2708e02dc3a5257d", null ],
+    [ "OnNewCalendarDay", "d1/d55/structShip.html#a8ce4306442566159065c16ca06670323", null ],
+    [ "OnNewEconomyDay", "d1/d55/structShip.html#acf628dead20f6543ef51a6f3faa69003", null ],
+    [ "PlayLeaveStationSound", "d1/d55/structShip.html#acd4f95243e22fd1fc2ae4bcf870e2e74", null ],
+    [ "Tick", "d1/d55/structShip.html#a18773eb7c2a0947c5b486f7335d8aee5", null ],
+    [ "UpdateCache", "d1/d55/structShip.html#af289fa61beae13bd7873bb6bb77a05fc", null ],
+    [ "UpdateDeltaXY", "d1/d55/structShip.html#a8632cf7f9fced0cc9a1597a0d370079e", null ],
+    [ "path", "d1/d55/structShip.html#a97d49dec41c37557ebcbb890093ca9ad", null ],
+    [ "rotation", "d1/d55/structShip.html#a706747c8b32e30775a760895d68ab6dc", null ],
+    [ "rotation_x_pos", "d1/d55/structShip.html#a6784a5dbf40a6d82074dcc257b27336b", null ],
+    [ "rotation_y_pos", "d1/d55/structShip.html#a92f8faafc184c4c627a9e3c43b1e42a0", null ],
+    [ "state", "d1/d55/structShip.html#a67484e406ecd63fdbcc869cdd98ea16e", null ]
+];

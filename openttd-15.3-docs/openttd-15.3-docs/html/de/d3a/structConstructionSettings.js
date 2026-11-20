@@ -1,0 +1,27 @@
+var structConstructionSettings =
+[
+    [ "autoslope", "de/d3a/structConstructionSettings.html#a2fc632a21bcc78da9cba675be256b7d3", null ],
+    [ "build_object_frame_burst", "de/d3a/structConstructionSettings.html#ac4ffd5d7eacf3cbc218987556c092494", null ],
+    [ "build_object_per_64k_frames", "de/d3a/structConstructionSettings.html#ac6d69d0c6a7f2d4d8126914ea488cee6", null ],
+    [ "build_on_slopes", "de/d3a/structConstructionSettings.html#a05924ff5f539a1e95b7fc047d4f7ab87", null ],
+    [ "clear_frame_burst", "de/d3a/structConstructionSettings.html#afc6c219552327d01b1853c88f502b75c", null ],
+    [ "clear_per_64k_frames", "de/d3a/structConstructionSettings.html#a4e3121421109b4b0f1ee5ef4a0c7d9b1", null ],
+    [ "command_pause_level", "de/d3a/structConstructionSettings.html#ab4533d0ca5a7e49464c25ddf515be363", null ],
+    [ "crossing_with_competitor", "de/d3a/structConstructionSettings.html#a80dac27298eb8191f5bc887b5ac22d89", null ],
+    [ "extra_dynamite", "de/d3a/structConstructionSettings.html#a1372c74c195360b603b0b5f000812553", null ],
+    [ "extra_tree_placement", "de/d3a/structConstructionSettings.html#ab047074a4c0240b3db1da64900deeae1", null ],
+    [ "freeform_edges", "de/d3a/structConstructionSettings.html#a1b731df69cf6477ac28b3cd6aee0daa7", null ],
+    [ "industry_platform", "de/d3a/structConstructionSettings.html#af7faacb58682ee98fac30c93c102e0c5", null ],
+    [ "map_height_limit", "de/d3a/structConstructionSettings.html#aba3424e61b8cd60a29388578079f12a1", null ],
+    [ "max_bridge_height", "de/d3a/structConstructionSettings.html#a019e0080c83e3eeec89590241ba04b38", null ],
+    [ "max_bridge_length", "de/d3a/structConstructionSettings.html#a7b7be73ef247e3c4b7748736fcd5d224", null ],
+    [ "max_tunnel_length", "de/d3a/structConstructionSettings.html#a8de8888269207f643730520e5930e27c", null ],
+    [ "raw_industry_construction", "de/d3a/structConstructionSettings.html#a97631cf8411b3a594c8f710952c52e52", null ],
+    [ "road_stop_on_competitor_road", "de/d3a/structConstructionSettings.html#af1dd33d60ac4a16d8d7a8f98e75ed577", null ],
+    [ "road_stop_on_town_road", "de/d3a/structConstructionSettings.html#a094eff4fdeb9116f2ceb4d6e66013fa5", null ],
+    [ "terraform_frame_burst", "de/d3a/structConstructionSettings.html#a7f2096d6672ca7bf7738322ce7f67cc4", null ],
+    [ "terraform_per_64k_frames", "de/d3a/structConstructionSettings.html#aead8d7238f762c7d76e594355d82e162", null ],
+    [ "train_signal_side", "de/d3a/structConstructionSettings.html#abfd298f942579c9e1a127279c7679788", null ],
+    [ "tree_frame_burst", "de/d3a/structConstructionSettings.html#aa7d2fc9ebe41fbc46dacc2df1467bacd", null ],
+    [ "tree_per_64k_frames", "de/d3a/structConstructionSettings.html#a5ddfbd685c879a70bcb1513f44cd2baa", null ]
+];

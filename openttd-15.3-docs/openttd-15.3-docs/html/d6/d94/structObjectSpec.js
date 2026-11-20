@@ -1,0 +1,27 @@
+var structObjectSpec =
+[
+    [ "BindToClasses", "d6/d94/structObjectSpec.html#a8c3ba6034e65892a7da9c0755a40cccd", null ],
+    [ "Get", "d6/d94/structObjectSpec.html#a4a28e6cdd2d90b2a10386420d3ea1673", null ],
+    [ "GetBuildCost", "d6/d94/structObjectSpec.html#aebae24f13a8c6ce6dae68e4fd9bd35e2", null ],
+    [ "GetByTile", "d6/d94/structObjectSpec.html#a457248c39324048268e006b966908fd0", null ],
+    [ "GetClearCost", "d6/d94/structObjectSpec.html#a657335883e9133a7c54223596166dc3f", null ],
+    [ "Index", "d6/d94/structObjectSpec.html#a7cd3350696eabf0616e056b3d2bd6dc0", null ],
+    [ "IsAvailable", "d6/d94/structObjectSpec.html#a5e723c0eedea9e29f1d4b4e8da026da4", null ],
+    [ "IsEnabled", "d6/d94/structObjectSpec.html#a1f1f2d37239eebf8803c08c048740993", null ],
+    [ "IsEverAvailable", "d6/d94/structObjectSpec.html#a404eb438f4a6ab5f5d20d1301c3c6396", null ],
+    [ "WasEverAvailable", "d6/d94/structObjectSpec.html#adbbf422985979db228d107d5a3e453f1", null ],
+    [ "animation", "d6/d94/structObjectSpec.html#aa49874f7969bc80a5ca904883ae0648a", null ],
+    [ "build_cost_multiplier", "d6/d94/structObjectSpec.html#af2d77a47b3e901189c4a1ba82340428b", null ],
+    [ "callback_mask", "d6/d94/structObjectSpec.html#a7fb1ed1787a2d4dfafeda9c1935e9b3b", null ],
+    [ "clear_cost_multiplier", "d6/d94/structObjectSpec.html#ab502b576efcd875a87c4dd4ba44b1524", null ],
+    [ "climate", "d6/d94/structObjectSpec.html#a2c99c9af9c265ca697d00ec0d51b6a6d", null ],
+    [ "end_of_life_date", "d6/d94/structObjectSpec.html#af151d3e161226fe1acd4c2760667d60a", null ],
+    [ "flags", "d6/d94/structObjectSpec.html#aaa3d68dc766d7fa262f7d0c0f8b4452d", null ],
+    [ "generate_amount", "d6/d94/structObjectSpec.html#a784fe25e185cc0fdb362a724e6b88c61", null ],
+    [ "grf_prop", "d6/d94/structObjectSpec.html#a2bfd0237500a6c5ed136abe9ccc829d3", null ],
+    [ "height", "d6/d94/structObjectSpec.html#ab4803d5adde90d213ee0c40123642bc2", null ],
+    [ "introduction_date", "d6/d94/structObjectSpec.html#a25ba6e29b61ff16d0cfc46946662758d", null ],
+    [ "name", "d6/d94/structObjectSpec.html#a37555a657aa7c6ee61d94d1def8f754d", null ],
+    [ "size", "d6/d94/structObjectSpec.html#a756ef56a3f55f0723cb434ff0307d0d9", null ],
+    [ "views", "d6/d94/structObjectSpec.html#aecde8b412689f4df5af1da4e8026fbaf", null ]
+];
