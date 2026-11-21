@@ -1,0 +1,26 @@
+var structAirportSpec =
+[
+    [ "Get", "d8/dde/structAirportSpec.html#ac66ad8653febb385c2ff9f998c87cbaf", null ],
+    [ "GetIndex", "d8/dde/structAirportSpec.html#af1e968b1a631610b94bd6907fb3c53b0", null ],
+    [ "GetWithoutOverride", "d8/dde/structAirportSpec.html#a7df27c7b8cb05bdf9e06c45ffb30efde", null ],
+    [ "IsAvailable", "d8/dde/structAirportSpec.html#af6228db3b137cd8726e4932e84dcc72a", null ],
+    [ "IsWithinMapBounds", "d8/dde/structAirportSpec.html#a73947f16c8286d6b592853ebadda16f5", null ],
+    [ "ResetAirports", "d8/dde/structAirportSpec.html#a4a23229512feac78fbdc2ff347f40106", null ],
+    [ "catchment", "d8/dde/structAirportSpec.html#a5ecc43d9832501ce64d3b4d721d38254", null ],
+    [ "depots", "d8/dde/structAirportSpec.html#ae6869273de4241162f10a83df517c3a5", null ],
+    [ "dummy", "d8/dde/structAirportSpec.html#a60ee5af6f871e14e1bd2da03dd6aa92d", null ],
+    [ "enabled", "d8/dde/structAirportSpec.html#a9eb95f9dca83c0e10e84002a76caea77", null ],
+    [ "fsm", "d8/dde/structAirportSpec.html#a86bfa064af568721dd2ccf4a16fdcd57", null ],
+    [ "grf_prop", "d8/dde/structAirportSpec.html#a19037f76053e7e3dd90734bdc87b2834", null ],
+    [ "layouts", "d8/dde/structAirportSpec.html#a50533008c0f9a877ba39920969a702e6", null ],
+    [ "maintenance_cost", "d8/dde/structAirportSpec.html#a68c18299334bf19750147734d92966a3", null ],
+    [ "max_year", "d8/dde/structAirportSpec.html#a9cce8b30baec556de5bf47f41347620e", null ],
+    [ "min_year", "d8/dde/structAirportSpec.html#a327b1da47126bb38a539bcbd2ed6b42d", null ],
+    [ "name", "d8/dde/structAirportSpec.html#a057b497f0159ca19816666aae31f27d1", null ],
+    [ "noise_level", "d8/dde/structAirportSpec.html#affc00fbe63c0804d7b427494a5ad962f", null ],
+    [ "preview_sprite", "d8/dde/structAirportSpec.html#a27bfdda6ed7de763c45d7fe10151eff6", null ],
+    [ "size_x", "d8/dde/structAirportSpec.html#ac598f5a31e62d89bd499091790d095dc", null ],
+    [ "size_y", "d8/dde/structAirportSpec.html#ab9d0b4dd87e9bf72f0715048eb774c3e", null ],
+    [ "specs", "d8/dde/structAirportSpec.html#a54191321139db585abf5a87778bda7cc", null ],
+    [ "ttd_airport_type", "d8/dde/structAirportSpec.html#a1ef58279a9fd595f16721214fadb0144", null ]
+];

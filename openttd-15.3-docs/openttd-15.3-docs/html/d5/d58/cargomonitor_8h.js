@@ -1,0 +1,26 @@
+var cargomonitor_8h =
+[
+    [ "CargoMonitorID", "d5/d58/cargomonitor_8h.html#a7fb4fdd2c4378356bc9a109a1602a607", null ],
+    [ "CargoMonitorMap", "d5/d58/cargomonitor_8h.html#ad3b8d8dff34be30a49e494bab20e2e48", null ],
+    [ "AddCargoDelivery", "d5/d58/cargomonitor_8h.html#a929cf1cb94a3f694a2ba1c2f2f45f8e3", null ],
+    [ "ClearCargoDeliveryMonitoring", "d5/d58/cargomonitor_8h.html#a03ded3283f1d76a4d04b09120cbd355f", null ],
+    [ "ClearCargoPickupMonitoring", "d5/d58/cargomonitor_8h.html#a6220b130f9bd681d530628fb336adf0f", null ],
+    [ "DecodeMonitorCargoType", "d5/d58/cargomonitor_8h.html#a93366b31ba0cbd7bdbb61d21722d6a30", null ],
+    [ "DecodeMonitorCompany", "d5/d58/cargomonitor_8h.html#ad559eb59da1305f5f8736b2502d1bf26", null ],
+    [ "DecodeMonitorIndustry", "d5/d58/cargomonitor_8h.html#a6ceeaf5e0a4b0b028f4afb1aa940ad4b", null ],
+    [ "DecodeMonitorTown", "d5/d58/cargomonitor_8h.html#adb38e6e6a5e1187f3fd62057e4f704b4", null ],
+    [ "EncodeCargoIndustryMonitor", "d5/d58/cargomonitor_8h.html#a258198fcd6f1422a4d78192e23228444", null ],
+    [ "EncodeCargoTownMonitor", "d5/d58/cargomonitor_8h.html#a893fe9d514d790923f8ff099b19d7752", null ],
+    [ "GetDeliveryAmount", "d5/d58/cargomonitor_8h.html#aac19c11137437bfa3d836a00afffd553", null ],
+    [ "GetPickupAmount", "d5/d58/cargomonitor_8h.html#a8733a61ec5f4fecf47fd7cb9c212a489", null ],
+    [ "MonitorMonitorsIndustry", "d5/d58/cargomonitor_8h.html#a79e48589b8f702640afa232b34905f7e", null ],
+    [ "_cargo_deliveries", "d5/d58/cargomonitor_8h.html#a5a98bfaadb9df7fee1a7cf0a7c75b245", null ],
+    [ "_cargo_pickups", "d5/d58/cargomonitor_8h.html#aad9af1e2f357a69b8894fbb7a0984eb1", null ],
+    [ "CCB_CARGO_TYPE_LENGTH", "d5/d58/cargomonitor_8h.html#a6916b3c3947e946b1dee29e19fcb0d60", null ],
+    [ "CCB_CARGO_TYPE_START", "d5/d58/cargomonitor_8h.html#ac4a53247379c5d7812d1ea3c15157296", null ],
+    [ "CCB_COMPANY_LENGTH", "d5/d58/cargomonitor_8h.html#aeebc3bb6906d2155250ed3b2382c2b2c", null ],
+    [ "CCB_COMPANY_START", "d5/d58/cargomonitor_8h.html#a027bbb04b3991c024226563f6b74a91e", null ],
+    [ "CCB_IS_INDUSTRY_BIT", "d5/d58/cargomonitor_8h.html#a58ae23e97cc67ea86b260be89c88ad39", null ],
+    [ "CCB_TOWN_IND_NUMBER_LENGTH", "d5/d58/cargomonitor_8h.html#a8132e518348d452a28825251010ad8cd", null ],
+    [ "CCB_TOWN_IND_NUMBER_START", "d5/d58/cargomonitor_8h.html#a5057089917f246a8b86bf0d024933124", null ]
+];

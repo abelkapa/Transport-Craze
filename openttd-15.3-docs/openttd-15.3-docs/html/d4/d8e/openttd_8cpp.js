@@ -1,0 +1,25 @@
+var openttd_8cpp =
+[
+    [ "AfterNewGRFScan", "d3/dfb/structAfterNewGRFScan.html", "d3/dfb/structAfterNewGRFScan" ],
+    [ "CallWindowGameTickEvent", "d4/d8e/openttd_8cpp.html#acd54eebb8089c126ac1f03aff16371e6", null ],
+    [ "ChangeAutosaveFrequency", "d4/d8e/openttd_8cpp.html#a576bde5c14fd9335a58a7f4050d6896c", null ],
+    [ "CheckCaches", "d4/d8e/openttd_8cpp.html#ad23416eac0b0239ba13316e93c3bef3d", null ],
+    [ "CreateOptions", "d4/d8e/openttd_8cpp.html#ac4c4ccb21ada4863f891d261cb2a33f3", null ],
+    [ "DoStartupNewCompany", "d4/d8e/openttd_8cpp.html#a2689efaa03c9467b74cf22463fb4e97f", null ],
+    [ "FatalErrorI", "d4/d8e/openttd_8cpp.html#a01f6d45d8a1879617a3829568a36952f", null ],
+    [ "HandleBootstrap", "d4/d8e/openttd_8cpp.html#ad98deb947212c54c29b25ff18fb46843", null ],
+    [ "LoadIntroGame", "d4/d8e/openttd_8cpp.html#aba3cba3fb9b7e0680a5690e4a099abdb", null ],
+    [ "MusicLoop", "d4/d8e/openttd_8cpp.html#a0098c45feb1f5f8f2fd42e5430efc499", null ],
+    [ "OnStartGame", "d4/d8e/openttd_8cpp.html#a44f0c9a90b64d417a8ed5fc3ac93c1b1", null ],
+    [ "OnStartScenario", "d4/d8e/openttd_8cpp.html#a203476390405549d43a4a372a6e6f4dc", null ],
+    [ "openttd_main", "d4/d8e/openttd_8cpp.html#a1f92cfc6c3ad1d73ad655a145b165796", null ],
+    [ "ParseResolution", "d4/d8e/openttd_8cpp.html#a49f40b789b1cde8b99887046b15a825f", null ],
+    [ "RequestNewGRFScan", "d4/d8e/openttd_8cpp.html#aacca8eea6ad838ea30d76a1a635cf78c", null ],
+    [ "SafeLoad", "d4/d8e/openttd_8cpp.html#a5363b38483be761c82899dfe2a8260b7", null ],
+    [ "ShowHelp", "d4/d8e/openttd_8cpp.html#aa108beb9968ab3252f65996fd6c336bc", null ],
+    [ "ShutdownGame", "d4/d8e/openttd_8cpp.html#ab264e577e512abb61b114af7f375966c", null ],
+    [ "StateGameLoop", "d4/d8e/openttd_8cpp.html#a78feb405a7bae4bcd68180a0779e08b4", null ],
+    [ "UserErrorI", "d4/d8e/openttd_8cpp.html#a884c6647e092418d18c08dbaa1fd0593", null ],
+    [ "_autosave_interval", "d4/d8e/openttd_8cpp.html#af8355a05a88f78b10c2597010e324590", null ],
+    [ "_config_file", "d4/d8e/openttd_8cpp.html#ad24b90719b1d40843c682f9b7a778f97", null ]
+];

@@ -1,0 +1,38 @@
+var newgrf__properties_8h =
+[
+    [ "PropertyID", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807", [
+      [ "PROP_VEHICLE_LOAD_AMOUNT", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a748b353bb2169f72fdeff312b476cfcb", null ],
+      [ "PROP_TRAIN_SPEED", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807adade96c5082cc07d422bae93aabce8e7", null ],
+      [ "PROP_TRAIN_POWER", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807adac136f51f854ae0745688908e3d5435", null ],
+      [ "PROP_TRAIN_RUNNING_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ad168015c6c9d70f193cdaa514df57a11", null ],
+      [ "PROP_TRAIN_CARGO_CAPACITY", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a43f0485bd527d522dc73436c9f0fb5e4", null ],
+      [ "PROP_TRAIN_WEIGHT", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a40b2a652891306f7a3f33861e4c1eae1", null ],
+      [ "PROP_TRAIN_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a2c40b3a0f1d6aac6e53dc05dd132ede5", null ],
+      [ "PROP_TRAIN_TRACTIVE_EFFORT", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a7774857c4d5f5a4f6278253587dd366e", null ],
+      [ "PROP_TRAIN_SHORTEN_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a0cc71d9b57816452c616766f9ea6ff95", null ],
+      [ "PROP_TRAIN_USER_DATA", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a3267bed3e5b2469c72d21a9d26147950", null ],
+      [ "PROP_TRAIN_CARGO_AGE_PERIOD", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ab617161361876907306a5ff8aeca8487", null ],
+      [ "PROP_TRAIN_CURVE_SPEED_MOD", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a0db718919dab1efa66517fc8ddb8eec0", null ],
+      [ "PROP_ROADVEH_RUNNING_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a763f860baa4555391dccfb10bf22b751", null ],
+      [ "PROP_ROADVEH_CARGO_CAPACITY", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a9d1962a12790215b722d721b5a384ebe", null ],
+      [ "PROP_ROADVEH_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ac500134df70abe3f8411ab7dec2f8892", null ],
+      [ "PROP_ROADVEH_POWER", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ac97f7cbf9b8999a903cfc578ec6f730a", null ],
+      [ "PROP_ROADVEH_WEIGHT", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a21c72618c5ceced7a852fce51d041f9c", null ],
+      [ "PROP_ROADVEH_SPEED", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807af99d9eb60459d289769801a459270155", null ],
+      [ "PROP_ROADVEH_TRACTIVE_EFFORT", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a97347f0904545541d544c0116d001523", null ],
+      [ "PROP_ROADVEH_CARGO_AGE_PERIOD", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a0ca9b752a10c6343ff37a934f9842c85", null ],
+      [ "PROP_ROADVEH_SHORTEN_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ac5ce74cc124f4cc7c0b5f2f447c42ba5", null ],
+      [ "PROP_SHIP_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a981b1598e888d93a9f368f599058935b", null ],
+      [ "PROP_SHIP_SPEED", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807aaccff72b8c805e98ec3accb745b15544", null ],
+      [ "PROP_SHIP_CARGO_CAPACITY", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a92335d00234a39bc0a00adb617d3ab08", null ],
+      [ "PROP_SHIP_RUNNING_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ab143f741c4a02290f852676e1fe76117", null ],
+      [ "PROP_SHIP_CARGO_AGE_PERIOD", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807acfc208cd06b178a4510c59e7883869e3", null ],
+      [ "PROP_AIRCRAFT_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ad01941cbddcc284a244d7e6f20528a8a", null ],
+      [ "PROP_AIRCRAFT_SPEED", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a9f25da33f3a7354389d550de390da968", null ],
+      [ "PROP_AIRCRAFT_RUNNING_COST_FACTOR", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a721079708ebdd9b34a912effb02f455e", null ],
+      [ "PROP_AIRCRAFT_PASSENGER_CAPACITY", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a0ae4de3b66290f7e8bc771c2ce0e9e35", null ],
+      [ "PROP_AIRCRAFT_MAIL_CAPACITY", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807aa217feb192a1c7f8dc515361a0c7b418", null ],
+      [ "PROP_AIRCRAFT_CARGO_AGE_PERIOD", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807ad969e936bf560453a719141e332b4a00", null ],
+      [ "PROP_AIRCRAFT_RANGE", "d9/dbb/newgrf__properties_8h.html#a1d9667611b59d13696af84de02a04807a4316cb8e1346a601100745c4c8cdadd4", null ]
+    ] ]
+];

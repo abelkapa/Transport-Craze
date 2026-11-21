@@ -1,0 +1,26 @@
+var structResolverObject =
+[
+    [ "ResolverObject", "d1/d2b/structResolverObject.html#aac75c208183a362811b73a577d18f671", null ],
+    [ "AddUsedRandomTriggers", "d1/d2b/structResolverObject.html#a52bdf27f0e74cb6a2ff4b142ae64b88f", null ],
+    [ "GetDebugID", "d1/d2b/structResolverObject.html#a2671a84b0f5b552075d69e35f07389ec", null ],
+    [ "GetFeature", "d1/d2b/structResolverObject.html#ad10be7d94c2b7038a5a725e4ec493b4c", null ],
+    [ "GetRegister", "d1/d2b/structResolverObject.html#a8fee6b41b9f716d179b58a14bc8b4594", null ],
+    [ "GetReseedSum", "d1/d2b/structResolverObject.html#aa45ac53e1b690fd1f92a365c5d7222bb", null ],
+    [ "GetScope", "d1/d2b/structResolverObject.html#ae151d4e2f6af0a38b253baee86e6a401", null ],
+    [ "GetWaitingRandomTriggers", "d1/d2b/structResolverObject.html#a3b1c91a173ff943e73983de75f51c1ef", null ],
+    [ "Resolve", "d1/d2b/structResolverObject.html#a72729209a5f8ea6d6492fa2f713dc186", null ],
+    [ "ResolveCallback", "d1/d2b/structResolverObject.html#afd29a73fca0b22da2cd533fafad0a2f0", null ],
+    [ "ResolveReal", "d1/d2b/structResolverObject.html#ac71465aedf8d8c24d37d6a2f23147ab9", null ],
+    [ "ResolveRerandomisation", "d1/d2b/structResolverObject.html#adaa949d4ff9cd28e58fd6769ab5e006c", null ],
+    [ "SetRegister", "d1/d2b/structResolverObject.html#a2e26454d37754da1d4bbbfea16334349", null ],
+    [ "callback", "d1/d2b/structResolverObject.html#ab7ba1bb67ece20d52d32f373f5661160", null ],
+    [ "callback_param1", "d1/d2b/structResolverObject.html#ac3d7b40bdf8ade126b825f3021973d0f", null ],
+    [ "callback_param2", "d1/d2b/structResolverObject.html#a683676ea0b2de5ef53aec481a6d3d15f", null ],
+    [ "default_scope", "d1/d2b/structResolverObject.html#ab2d32a111bd62b26d20e724d76190eaf", null ],
+    [ "grffile", "d1/d2b/structResolverObject.html#a23084dbf87fc3ebe858b7b4f81b3892c", null ],
+    [ "last_value", "d1/d2b/structResolverObject.html#acd2ee05e3421825c74c7246ebdb53509", null ],
+    [ "reseed", "d1/d2b/structResolverObject.html#aff6fe6a36c58e571011fc504dec6d2e1", null ],
+    [ "root_spritegroup", "d1/d2b/structResolverObject.html#adcf0e2fd028e6dde551d966d1a46523b", null ],
+    [ "used_random_triggers", "d1/d2b/structResolverObject.html#a7e20c5f223c1180127b20d01edeaad83", null ],
+    [ "waiting_random_triggers", "d1/d2b/structResolverObject.html#af0863dd5a2c7f8d09708b56179dea479", null ]
+];

@@ -1,0 +1,28 @@
+var structTileHighlightData =
+[
+    [ "GetCallbackWnd", "dd/d2c/structTileHighlightData.html#a22a10945df58f40e5d4e0e3f566f0518", null ],
+    [ "IsDraggingDiagonal", "dd/d2c/structTileHighlightData.html#a3ffc5f7710b6a2b7f3f970578a18fe24", null ],
+    [ "Reset", "dd/d2c/structTileHighlightData.html#ad19ecffc35ab31bf8bd8ec90133a36fb", null ],
+    [ "diagonal", "dd/d2c/structTileHighlightData.html#ac9eeb7ae3071de82ab3fb3961143e0f1", null ],
+    [ "dirty", "dd/d2c/structTileHighlightData.html#a7e782abba30ba7be267ac2de895affcf", null ],
+    [ "drawstyle", "dd/d2c/structTileHighlightData.html#a73fcd6cd51a2fbe636a46d041c273773", null ],
+    [ "freeze", "dd/d2c/structTileHighlightData.html#adfb8dd00bdabef1182ffa7f72515395c", null ],
+    [ "make_square_red", "dd/d2c/structTileHighlightData.html#a36d20956ff58edee932dbf2850b13f97", null ],
+    [ "new_outersize", "dd/d2c/structTileHighlightData.html#a6487aa8670ba5043e0129bbdb1deb4a0", null ],
+    [ "new_pos", "dd/d2c/structTileHighlightData.html#a212f1d63ccbcc6fa66f289874983f404", null ],
+    [ "new_size", "dd/d2c/structTileHighlightData.html#adc40b30c41f87cacd308c7ce47100322", null ],
+    [ "next_drawstyle", "dd/d2c/structTileHighlightData.html#aeacf15ccd94987844423fa6fd77c2307", null ],
+    [ "offs", "dd/d2c/structTileHighlightData.html#a8412e4b27a2f32969ca6c0a1d5e66122", null ],
+    [ "outersize", "dd/d2c/structTileHighlightData.html#abfd6254beec99b79dda33decca5e45df", null ],
+    [ "place_mode", "dd/d2c/structTileHighlightData.html#a77504c39b3b1a60a3370e02dfecc3694", null ],
+    [ "pos", "dd/d2c/structTileHighlightData.html#ab959c217109feef67cd9899d85908e8b", null ],
+    [ "redsq", "dd/d2c/structTileHighlightData.html#a177b0a16002c47e233b9912c514cceaa", null ],
+    [ "select_method", "dd/d2c/structTileHighlightData.html#af47fc1e29b38fc31ee68ccdc854b781c", null ],
+    [ "select_proc", "dd/d2c/structTileHighlightData.html#a52dfe18d3040e4aa08faf5e3b5f451c7", null ],
+    [ "selend", "dd/d2c/structTileHighlightData.html#ad3bef0295ea44d63983f5d2603ce4a68", null ],
+    [ "selstart", "dd/d2c/structTileHighlightData.html#a5f610cf587a2e656a9a0410abc0ac6fc", null ],
+    [ "size", "dd/d2c/structTileHighlightData.html#a868b347ff7d33a9a411b5601b57b6b2d", null ],
+    [ "sizelimit", "dd/d2c/structTileHighlightData.html#a9c8e4f3d3ac06452eb10cb2d4caa1058", null ],
+    [ "window_class", "dd/d2c/structTileHighlightData.html#a78ace9028d1900279b4dd2f759ccee62", null ],
+    [ "window_number", "dd/d2c/structTileHighlightData.html#afc989292a6583c3f417a94de56c0a0d9", null ]
+];

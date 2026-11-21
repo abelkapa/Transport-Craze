@@ -1,0 +1,26 @@
+var classHousePickerCallbacks =
+[
+    [ "DrawType", "db/d42/classHousePickerCallbacks.html#a2e240ffc36af11daa99630045705dacb", null ],
+    [ "FillUsedItems", "db/d42/classHousePickerCallbacks.html#a582759c7da1e4b328c51e6bcb39624b8", null ],
+    [ "GetClassCount", "db/d42/classHousePickerCallbacks.html#a3c45cc923f4971d29e5379db41ea20e3", null ],
+    [ "GetClassName", "db/d42/classHousePickerCallbacks.html#aec6ac2f771c9f204f3c6e2d0d7383ca8", null ],
+    [ "GetClassTooltip", "db/d42/classHousePickerCallbacks.html#a20f2ca548912bfbd102a05fc7454dfce", null ],
+    [ "GetPickerItem", "db/d42/classHousePickerCallbacks.html#a04215ec834ccdb38aa4b2bfbc0eab6ae", null ],
+    [ "GetSelectedClass", "db/d42/classHousePickerCallbacks.html#a770d9e68dd506c6313c27c4f457c8e27", null ],
+    [ "GetSelectedType", "db/d42/classHousePickerCallbacks.html#acd1d04d42d6483afd08c10b02b7bcf37", null ],
+    [ "GetTypeBadges", "db/d42/classHousePickerCallbacks.html#a268f0135463a21f352bb9106af3feb73", null ],
+    [ "GetTypeCount", "db/d42/classHousePickerCallbacks.html#ade26e1fe623895c117306b5e0207967d", null ],
+    [ "GetTypeName", "db/d42/classHousePickerCallbacks.html#abf0525715275c51955ca53dafb3f9ffb", null ],
+    [ "GetTypeTooltip", "db/d42/classHousePickerCallbacks.html#a913c377386c6f2c13b788254386bcfd9", null ],
+    [ "HasClassChoice", "db/d42/classHousePickerCallbacks.html#ad3ec13803ff6208074442d9d247ff253", null ],
+    [ "IsActive", "db/d42/classHousePickerCallbacks.html#a0c31f9760c4818aecea4ad9a57d887c4", null ],
+    [ "IsTypeAvailable", "db/d42/classHousePickerCallbacks.html#acebcc9733411ffd60d73a036e72f8438", null ],
+    [ "SetClimateMask", "db/d42/classHousePickerCallbacks.html#a19278e6032ebcdeda6a77610978c115f", null ],
+    [ "SetSelectedClass", "db/d42/classHousePickerCallbacks.html#a1b0b21062d2816c5f74d18b927a12dfa", null ],
+    [ "SetSelectedType", "db/d42/classHousePickerCallbacks.html#ab68cfa7e86027d176441ed31633bb896", null ],
+    [ "UpdateSavedItems", "db/d42/classHousePickerCallbacks.html#a7e76cf9df314c58d5dad7ff83bdd6987", null ],
+    [ "class_mask", "db/d42/classHousePickerCallbacks.html#ad75ce04000a2c9afbef2bc805ce34ea4", null ],
+    [ "sel_class", "db/d42/classHousePickerCallbacks.html#afea1a7d31fb5660c8c0146c16030ce6c", null ],
+    [ "sel_type", "db/d42/classHousePickerCallbacks.html#a5b9c42f59e88f4a0bc7af1b5bcadf9c9", null ],
+    [ "sel_view", "db/d42/classHousePickerCallbacks.html#a342260ef990e5abecdfd674962183463", null ]
+];

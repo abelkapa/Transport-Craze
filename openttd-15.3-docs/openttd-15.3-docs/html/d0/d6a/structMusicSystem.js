@@ -1,0 +1,27 @@
+var structMusicSystem =
+[
+    [ "PlaylistEntry", "df/d91/structMusicSystem_1_1PlaylistEntry.html", "df/d91/structMusicSystem_1_1PlaylistEntry" ],
+    [ "BuildPlaylists", "d0/d6a/structMusicSystem.html#a31e06592930232eab98540fa8f376d15", null ],
+    [ "ChangeMusicSet", "d0/d6a/structMusicSystem.html#a197b6006aba3c8346bf3a27749940f74", null ],
+    [ "ChangePlaylist", "d0/d6a/structMusicSystem.html#a20e77f51f483a5394eefb4e13a763a65", null ],
+    [ "ChangePlaylistPosition", "d0/d6a/structMusicSystem.html#a9130d436af5dee7f7069bde347691980", null ],
+    [ "CheckStatus", "d0/d6a/structMusicSystem.html#a06945a6dfd92dc5c6d12f3ea35bb20f9", null ],
+    [ "GetCurrentSong", "d0/d6a/structMusicSystem.html#a6ef11a9f6434cf966a23fc7d7c766f93", null ],
+    [ "GetSetIndex", "d0/d6a/structMusicSystem.html#af5e677f8451f8ffe24e0935b3d959833", null ],
+    [ "IsCustomPlaylist", "d0/d6a/structMusicSystem.html#aec3a8010998b232414b684bf4ad20f40", null ],
+    [ "IsPlaying", "d0/d6a/structMusicSystem.html#a63ef100cd5931a9f12118f4a398f78c9", null ],
+    [ "IsShuffle", "d0/d6a/structMusicSystem.html#af2c5db93fd9d182c574385a71dba8adf", null ],
+    [ "Next", "d0/d6a/structMusicSystem.html#a4624a2d3dab51fd95d54bf13c1b9c0f3", null ],
+    [ "Play", "d0/d6a/structMusicSystem.html#a4d11f937210df62b8be5fd20afd5a88d", null ],
+    [ "PlaylistAdd", "d0/d6a/structMusicSystem.html#a8f2bcb8d3858648d45f6466134d43616", null ],
+    [ "PlaylistClear", "d0/d6a/structMusicSystem.html#ab0a9d3434455403ef7ded560180ba34c", null ],
+    [ "PlaylistRemove", "d0/d6a/structMusicSystem.html#a6b5043e85e43b4ed3ec89fb21d2f96cc", null ],
+    [ "Prev", "d0/d6a/structMusicSystem.html#aacea1a5dff6db71dc1a16edd5f079105", null ],
+    [ "SaveCustomPlaylist", "d0/d6a/structMusicSystem.html#a00b2226dc76df870ebcaa77a020837e6", null ],
+    [ "SetPositionBySetIndex", "d0/d6a/structMusicSystem.html#ae614ab3b6fb3bfb24275c27251089a31", null ],
+    [ "Shuffle", "d0/d6a/structMusicSystem.html#a2bb7a00ddb6be71571972a9647d719a2", null ],
+    [ "Stop", "d0/d6a/structMusicSystem.html#a2db0f7b8b6d1131a8461b26fc84aaba5", null ],
+    [ "Unshuffle", "d0/d6a/structMusicSystem.html#a6a7831e79f1cca9d4a704621a55927c4", null ],
+    [ "active_playlist", "d0/d6a/structMusicSystem.html#a9b7b32921d79b9601b812135ef5d37f1", null ],
+    [ "music_set", "d0/d6a/structMusicSystem.html#af4d6cd6946ce74ccee11ef5cc79a9f0a", null ]
+];

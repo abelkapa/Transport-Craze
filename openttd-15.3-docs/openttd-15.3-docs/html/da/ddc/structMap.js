@@ -1,0 +1,26 @@
+var structMap =
+[
+    [ "IterateWrapper", "d8/dca/structMap_1_1IterateWrapper.html", null ],
+    [ "Iterator", "dd/d0b/structMap_1_1Iterator.html", null ],
+    [ "Allocate", "da/ddc/structMap.html#ad84f2409c403035b1286d923138e3edd", null ],
+    [ "IsInitialized", "da/ddc/structMap.html#a9fef4645533736053774807794835957", null ],
+    [ "Iterate", "da/ddc/structMap.html#a48663b807bfa792efbd2bbf28109bb49", null ],
+    [ "LogX", "da/ddc/structMap.html#a5fcd17e8c51d8b2c2a41f9c6a9780239", null ],
+    [ "LogY", "da/ddc/structMap.html#a9d43e349e5ac6526068062d64b8b4042", null ],
+    [ "MaxX", "da/ddc/structMap.html#acefb5ae84fe9de87585f9e6906d18e76", null ],
+    [ "MaxY", "da/ddc/structMap.html#aba0e98d9efd20d3d9287b87ed9f91acb", null ],
+    [ "ScaleByLandProportion", "da/ddc/structMap.html#a76cae1888bb8ac34d98e6ec399ddfef9", null ],
+    [ "ScaleBySize", "da/ddc/structMap.html#a09d2638de837863cf4a319f2fdb29457", null ],
+    [ "ScaleBySize1D", "da/ddc/structMap.html#a9b3f5decbcda104236d068b3eeb7ec67", null ],
+    [ "Size", "da/ddc/structMap.html#adc44da5e0b4850e832a9a7623b949d70", null ],
+    [ "SizeX", "da/ddc/structMap.html#a02b4d745a95944f18897a9f191c9d472", null ],
+    [ "SizeY", "da/ddc/structMap.html#a31ad35538da24f968f1ca5b8c3abf120", null ],
+    [ "WrapToMap", "da/ddc/structMap.html#a07edfb61f0deecb06d761b3f1fd0d9ce", null ],
+    [ "initial_land_count", "da/ddc/structMap.html#ab936567588434090ed5607a1513aa160", null ],
+    [ "log_x", "da/ddc/structMap.html#ad494245ff322e27ccb46d9faa4ca9dfe", null ],
+    [ "log_y", "da/ddc/structMap.html#ad2fd89795fc8af54b812b6911354490f", null ],
+    [ "size", "da/ddc/structMap.html#a54698ca319d9333eb5539a2165866091", null ],
+    [ "size_x", "da/ddc/structMap.html#a87adfc769bded6ee4ad4cfc1a8c919f5", null ],
+    [ "size_y", "da/ddc/structMap.html#a8ce6809c79b8fb23fe3af997d04119b1", null ],
+    [ "tile_mask", "da/ddc/structMap.html#a8b09135146db8a960f1aa7d5b4dfe958", null ]
+];

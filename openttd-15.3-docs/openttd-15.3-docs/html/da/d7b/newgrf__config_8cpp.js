@@ -1,0 +1,28 @@
+var newgrf__config_8cpp =
+[
+    [ "GRFFileScanner", "d9/d92/classGRFFileScanner.html", "d9/d92/classGRFFileScanner" ],
+    [ "AppendGRFConfigList", "da/d7b/newgrf__config_8cpp.html#aa757643acd5839820d2c15adecb38e77", null ],
+    [ "AppendStaticGRFConfigs", "da/d7b/newgrf__config_8cpp.html#aaee51d315207f4c5548e98f39ab39b7e", null ],
+    [ "AppendToGRFConfigList", "da/d7b/newgrf__config_8cpp.html#af7e62111bebd27e7ec26e5db758e1d92", null ],
+    [ "CalcGRFMD5Sum", "da/d7b/newgrf__config_8cpp.html#a35f08ab621fbce3c3b4e55768d3679ad", null ],
+    [ "ClearGRFConfigList", "da/d7b/newgrf__config_8cpp.html#aff06bc11e67da42a57f48d81f2bfc768", null ],
+    [ "CopyGRFConfigList", "da/d7b/newgrf__config_8cpp.html#a189d2899ed472630ffcad2019f2fec02", null ],
+    [ "DoScanNewGRFFiles", "da/d7b/newgrf__config_8cpp.html#aea07ef0b4c9797962a324f676e18d0eb", null ],
+    [ "FillGRFDetails", "da/d7b/newgrf__config_8cpp.html#a963d63779a61a577baa0679273ba78b8", null ],
+    [ "FindGRFConfig", "da/d7b/newgrf__config_8cpp.html#a6dce28e0225acffca8d6aee826768ac8", null ],
+    [ "GetGRFConfig", "da/d7b/newgrf__config_8cpp.html#ad7a2c1900b8516ad24b9d782c8424767", null ],
+    [ "GRFBuildParamList", "da/d7b/newgrf__config_8cpp.html#a376372b59c9a1b4cbaaa7341b4388205", null ],
+    [ "GRFGetSizeOfDataSection", "da/d7b/newgrf__config_8cpp.html#ae2b54b01aaeebd09555752e2d32fca27", null ],
+    [ "GRFSorter", "da/d7b/newgrf__config_8cpp.html#ac940e13d89b01171e8ed9ba9dc4d275e", null ],
+    [ "IsGoodGRFConfigList", "da/d7b/newgrf__config_8cpp.html#a3353e74e7a844f135332694e9495f535", null ],
+    [ "RemoveDuplicatesFromGRFConfigList", "da/d7b/newgrf__config_8cpp.html#a61b073c7fc0133ad5c78051edd65e6bb", null ],
+    [ "ResetGRFConfig", "da/d7b/newgrf__config_8cpp.html#a78b0d8a1021e6c8e1da041eac33d688b", null ],
+    [ "ScanNewGRFFiles", "da/d7b/newgrf__config_8cpp.html#ac92c6aec58e68b9b11595b67cbad64af", null ],
+    [ "UpdateNewGRFConfigPalette", "da/d7b/newgrf__config_8cpp.html#a0990b12884cc07d3f81a7c8eaf1a4f76", null ],
+    [ "_all_grfs", "da/d7b/newgrf__config_8cpp.html#a93be8f35c508d7bb1485a71cfbb4741e", null ],
+    [ "_grfconfig", "da/d7b/newgrf__config_8cpp.html#a0b9bba0d3f9d7ad63703fc3db1d7fd24", null ],
+    [ "_grfconfig_newgame", "da/d7b/newgrf__config_8cpp.html#a8e06550abacc45f6e104f9ce4385c556", null ],
+    [ "_grfconfig_static", "da/d7b/newgrf__config_8cpp.html#a124fb1c63b3fe790cd4fd71e3d274942", null ],
+    [ "_missing_extra_graphics", "da/d7b/newgrf__config_8cpp.html#a58a570663151c8ef9b15662f1ce934a0", null ],
+    [ "_skip_all_newgrf_scanning", "da/d7b/newgrf__config_8cpp.html#aec51de6a68505c3fd1276c838b91131b", null ]
+];

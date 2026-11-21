@@ -1,0 +1,37 @@
+var classIndustryDirectoryWindow =
+[
+    [ "SorterType", "d3/de3/classIndustryDirectoryWindow.html#a697c9f3147584609fee2030b3072b9fe", [
+      [ "ByName", "d3/de3/classIndustryDirectoryWindow.html#a697c9f3147584609fee2030b3072b9fea4adda6c078fdeb347d94c3ab2ff88804", null ],
+      [ "ByType", "d3/de3/classIndustryDirectoryWindow.html#a697c9f3147584609fee2030b3072b9feaf89ac06f1dddaeba904cf576804aca2a", null ],
+      [ "ByProduction", "d3/de3/classIndustryDirectoryWindow.html#a697c9f3147584609fee2030b3072b9fea9916123bd1979b3d33d1c5e086a9c7b1", null ],
+      [ "ByTransported", "d3/de3/classIndustryDirectoryWindow.html#a697c9f3147584609fee2030b3072b9fea6e246c6755cb69ecc55f9eb699190ae0", null ]
+    ] ],
+    [ "BuildSortIndustriesList", "d3/de3/classIndustryDirectoryWindow.html#ab1764649a927eaa4b082b79d01f5a989", null ],
+    [ "DrawWidget", "d3/de3/classIndustryDirectoryWindow.html#a4e1a86cdc180fac0462c9402384f797c", null ],
+    [ "GetCargoTransportedPercentsIfValid", "d3/de3/classIndustryDirectoryWindow.html#a5cb12d622e565fce5c3fa2950420cc13", null ],
+    [ "GetCargoTransportedSortValue", "d3/de3/classIndustryDirectoryWindow.html#a1c07f13e0942a292ccf12644d86742fa", null ],
+    [ "GetIndustryListWidth", "d3/de3/classIndustryDirectoryWindow.html#a7120733b46e8710043fb6f23cea2487b", null ],
+    [ "GetIndustryString", "d3/de3/classIndustryDirectoryWindow.html#a6a058d012e96ee44fe372316b11fad15", null ],
+    [ "GetWidgetString", "d3/de3/classIndustryDirectoryWindow.html#a069665157f184531abb76db4c5dba9ab", null ],
+    [ "IndustryNameSorter", "d3/de3/classIndustryDirectoryWindow.html#acd5f00ac70c27d53a02d64a46a5693e8", null ],
+    [ "IndustryProductionSorter", "d3/de3/classIndustryDirectoryWindow.html#aa9e5093b03696769db63dd9412c15f5b", null ],
+    [ "IndustryTransportedCargoSorter", "d3/de3/classIndustryDirectoryWindow.html#a9aa7386f514bb50514d07e5b9db0a090", null ],
+    [ "IndustryTypeSorter", "d3/de3/classIndustryDirectoryWindow.html#a06e6155e365782c10184c56447080eb5", null ],
+    [ "OnClick", "d3/de3/classIndustryDirectoryWindow.html#a2f50b7afe783b2c6a5ab9748fbd2c7d6", null ],
+    [ "OnDropdownSelect", "d3/de3/classIndustryDirectoryWindow.html#ae35b41a5a12303907c8d712dccb52b53", null ],
+    [ "OnEditboxChanged", "d3/de3/classIndustryDirectoryWindow.html#a0540999d0e837240c714c3fcbf9c579e", null ],
+    [ "OnInit", "d3/de3/classIndustryDirectoryWindow.html#af820deab36156031ada6eafe7019dc69", null ],
+    [ "OnInvalidateData", "d3/de3/classIndustryDirectoryWindow.html#ad39d5bd7e9ecab8067e6aa7e65e9ca1c", null ],
+    [ "OnPaint", "d3/de3/classIndustryDirectoryWindow.html#af433f5bc82e3c6cbb4249b28d4f575e5", null ],
+    [ "OnResize", "d3/de3/classIndustryDirectoryWindow.html#a4da769a002468dff3a849a9b2250f467", null ],
+    [ "SetAcceptedCargoFilter", "d3/de3/classIndustryDirectoryWindow.html#ad8d2a82c2249b945d7962fb293a9cb29", null ],
+    [ "SetCargoFilterArray", "d3/de3/classIndustryDirectoryWindow.html#a491ab7b5a9bd5a66b00e4ba1a0c30246", null ],
+    [ "SetProducedCargoFilter", "d3/de3/classIndustryDirectoryWindow.html#a50d86961a78c331928bbe98fa4d71926", null ],
+    [ "UpdateWidgetSize", "d3/de3/classIndustryDirectoryWindow.html#ac80b561d25c3dbd8b581c1cb9f0c59dd", null ],
+    [ "accepted_cargo_filter_criteria", "d3/de3/classIndustryDirectoryWindow.html#abc5a0c37b21defceff80b901c9683b6b", null ],
+    [ "industry_editbox", "d3/de3/classIndustryDirectoryWindow.html#a9d2816268f417ecf8a7a67a93ee7148f", null ],
+    [ "MAX_FILTER_LENGTH", "d3/de3/classIndustryDirectoryWindow.html#a3f624fc8f930a97231a6f784a54f0b3c", null ],
+    [ "produced_cargo_filter_criteria", "d3/de3/classIndustryDirectoryWindow.html#ae77caaf17606e511dd36c60708d809b3", null ],
+    [ "rebuild_interval", "d3/de3/classIndustryDirectoryWindow.html#a046cc21ef64340042bd1132e7039b457", null ],
+    [ "string_filter", "d3/de3/classIndustryDirectoryWindow.html#aa0a97bcb798a03b86a0aa1cce7c22898", null ]
+];

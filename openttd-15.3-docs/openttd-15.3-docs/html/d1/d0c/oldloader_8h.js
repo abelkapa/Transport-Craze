@@ -1,0 +1,37 @@
+var oldloader_8h =
+[
+    [ "LoadgameState", "d4/d91/structLoadgameState.html", "d4/d91/structLoadgameState" ],
+    [ "OldChunks", "da/dc7/structOldChunks.html", "da/dc7/structOldChunks" ],
+    [ "OldChunkType", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455", [
+      [ "OC_SIMPLE", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455aa6866df6401e1fd38119db191b84b6b1", null ],
+      [ "OC_NULL", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a83fe86f81548838391c549e724d1e1bf", null ],
+      [ "OC_CHUNK", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a9657825cb8f76243806a57719aab342f", null ],
+      [ "OC_ASSERT", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a63f92a893a0cd4ceeb3f8a04b4cc46fd", null ],
+      [ "OC_TTD", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455afd000fecea822376b6bf1a28d8bdc9cf", null ],
+      [ "OC_TTO", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455aa6147fa82a4b08fbf0879549bc0d0376", null ],
+      [ "OC_VAR_I8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a055f563ef2a82cd7efd5fdc3868932f4", null ],
+      [ "OC_VAR_U8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a4d4e58e2b1f5312a4b194dcf0df52e5e", null ],
+      [ "OC_VAR_I16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a6cd04f04476bd4fd67cdc59e08335273", null ],
+      [ "OC_VAR_U16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455af63e7327bf18289eebc3b1f2771febd3", null ],
+      [ "OC_VAR_I32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455aec43893e4be050fda22d9c4dd807187e", null ],
+      [ "OC_VAR_U32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a97474e28dca677a747c700021548791b", null ],
+      [ "OC_VAR_I64", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455ab232c3d3047987aa61391573126e2cce", null ],
+      [ "OC_VAR_U64", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455ac4d48ddac41bb31cba22f1775261bbea", null ],
+      [ "OC_FILE_I8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a2fede681a83a0f3e97d2132239759914", null ],
+      [ "OC_FILE_U8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455afcc264f203c603e7ed1d724c208b7203", null ],
+      [ "OC_FILE_I16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455abd20fc23d62eb4101a2535d85689c61b", null ],
+      [ "OC_FILE_U16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455af5a3f9c050b002db75584884bec676c0", null ],
+      [ "OC_FILE_I32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a44eb8552e4a4c904ea5b2b464255183a", null ],
+      [ "OC_FILE_U32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455aa15641309de064e659563a7fceb5bb45", null ],
+      [ "OC_INT8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a714772def71f654195bb9b720fe6dd7f", null ],
+      [ "OC_UINT8", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455adc1d73e67bbd5bbd5e0101a7039836ea", null ],
+      [ "OC_INT16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a1db7d97d6d8cb8e886942a09de8f5a7e", null ],
+      [ "OC_UINT16", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a92405cab0c5c79d4ce1411699d6ae2fb", null ],
+      [ "OC_INT32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a9af76356017c263f66a8e202d2740281", null ],
+      [ "OC_UINT32", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a65a9249e71cad9db616a1aefeb21c53f", null ],
+      [ "OC_TILE", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a87982191df4d08268699a74545b04199", null ],
+      [ "OC_END", "d1/d0c/oldloader_8h.html#a08ee98e25328090ddbfa2a514c2c1455a112282cd17c3376ce87a637d462b28bb", null ]
+    ] ],
+    [ "LoadChunk", "d1/d0c/oldloader_8h.html#a7d9d48474a65276b13a55fe9338f4a8f", null ],
+    [ "ReadByte", "d1/d0c/oldloader_8h.html#ac689838d094dfd07fc868c6304b551f3", null ]
+];

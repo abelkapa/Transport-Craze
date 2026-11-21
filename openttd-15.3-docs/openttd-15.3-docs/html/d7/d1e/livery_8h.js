@@ -1,0 +1,47 @@
+var livery_8h =
+[
+    [ "Livery", "d3/d08/structLivery.html", "d3/d08/structLivery" ],
+    [ "LiveryClass", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846", [
+      [ "LC_OTHER", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a9db614aa0942180c7d2a872dde7806eb", null ],
+      [ "LC_RAIL", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a51cedcae551a6d24c741f469cb9ac604", null ],
+      [ "LC_ROAD", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a7bcdf47c48a9b48b41863aad618ff257", null ],
+      [ "LC_SHIP", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846ac45573344a78ef6e08c20e3288663bde", null ],
+      [ "LC_AIRCRAFT", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a19415c06a9d9ead6c5fb50aea45f8ea8", null ],
+      [ "LC_GROUP_RAIL", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a695fc45afa366d46f2068f1596a01178", null ],
+      [ "LC_GROUP_ROAD", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846ae7c2ec2b16ffe2f011d51d0f81027134", null ],
+      [ "LC_GROUP_SHIP", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a6b347929fee34d7b76a470dc2c170293", null ],
+      [ "LC_GROUP_AIRCRAFT", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a5ac3a4573e47baa62a17067218935c4b", null ],
+      [ "LC_END", "d7/d1e/livery_8h.html#af095448b1d61e78dbf8f78eb89130846a19db28d1e72d2f65034ca35541328b11", null ]
+    ] ],
+    [ "LiveryScheme", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845", [
+      [ "LS_BEGIN", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ae1e39fa7fccfdea267c96c3111794791", null ],
+      [ "LS_DEFAULT", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ae72ea851ff150a7767eae8ea484de0c1", null ],
+      [ "LS_STEAM", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ae823b9b19724e0ae0f1f796edb19d16c", null ],
+      [ "LS_DIESEL", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a6dee038deee2ea7a3460c313467ee662", null ],
+      [ "LS_ELECTRIC", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a48933709f3ff4fc5e8ceaf75de36cb33", null ],
+      [ "LS_MONORAIL", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a7dd731b82a292aeecee52a7fc9114448", null ],
+      [ "LS_MAGLEV", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a5f99c632f120cd35b75416ce65e7bf98", null ],
+      [ "LS_DMU", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a5eb961d6851587e7203a0ffe588b5ebd", null ],
+      [ "LS_EMU", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a7323d02839e3e05185e1f13bfd8c5168", null ],
+      [ "LS_PASSENGER_WAGON_STEAM", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ab92e676eb4e81aa4eae0adf3abf3e6d4", null ],
+      [ "LS_PASSENGER_WAGON_DIESEL", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a2652ba679b04eafda99697bf2b962c21", null ],
+      [ "LS_PASSENGER_WAGON_ELECTRIC", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a21b6a003805e12a216c5396677fcbc4c", null ],
+      [ "LS_PASSENGER_WAGON_MONORAIL", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ada0160fde270a0b86b2b12a3a3921d07", null ],
+      [ "LS_PASSENGER_WAGON_MAGLEV", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a554485251c7c9ca803ca723ab0252857", null ],
+      [ "LS_FREIGHT_WAGON", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a2b9b2218b70178cd7316162829ebc409", null ],
+      [ "LS_BUS", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ae886331c06f5857e6df61dfe4e5901f9", null ],
+      [ "LS_TRUCK", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a50353516b7a00347c5973e81b1dcf7f9", null ],
+      [ "LS_PASSENGER_SHIP", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845aeeb4b8c11996636b2a89f0485bc6620a", null ],
+      [ "LS_FREIGHT_SHIP", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ad16325b6dff17c2a41935695d0832689", null ],
+      [ "LS_HELICOPTER", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845ae84d35bb7043c0b35491b2e5c6ccdbfd", null ],
+      [ "LS_SMALL_PLANE", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a4481ad2ee1f1a40c7fe6b4f431a8531f", null ],
+      [ "LS_LARGE_PLANE", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a4ba424df66a29d6da2a8f4b548869f77", null ],
+      [ "LS_PASSENGER_TRAM", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a1942f3f7ea3bdfd98cf15274ed1cfaaf", null ],
+      [ "LS_FREIGHT_TRAM", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845a131aec11ae3a207fbbaefa4b8f558cdf", null ],
+      [ "LS_END", "d7/d1e/livery_8h.html#a3500b494fba70dde0dc6a18f2f924845aeac0c73eca6b3923b5efd48baf70e2be", null ]
+    ] ],
+    [ "ResetCompanyLivery", "d7/d1e/livery_8h.html#a5beea6300d1c7e3d335039c3a80a380b", null ],
+    [ "LIT_ALL", "d7/d1e/livery_8h.html#a23191c6bfc29b7b8828e81740667a771", null ],
+    [ "LIT_COMPANY", "d7/d1e/livery_8h.html#a6e4a9b24eddea1bee67e100969b46cd0", null ],
+    [ "LIT_NONE", "d7/d1e/livery_8h.html#a939d166e95fe5540de71912c45f5fb76", null ]
+];
