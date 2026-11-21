@@ -1,0 +1,78 @@
+var rail__widget_8h =
+[
+    [ "BuildRailDepotWidgets", "db/d16/rail__widget_8h.html#a82147f490be598de1c7e41dd8d187c98", [
+      [ "WID_BRAD_DEPOT_NE", "db/d16/rail__widget_8h.html#a82147f490be598de1c7e41dd8d187c98a43a69b40f32e3ce49bdf9213e65d7883", null ],
+      [ "WID_BRAD_DEPOT_SE", "db/d16/rail__widget_8h.html#a82147f490be598de1c7e41dd8d187c98a0846fa0bfbd356e0ccfbac1ffc87c0f4", null ],
+      [ "WID_BRAD_DEPOT_SW", "db/d16/rail__widget_8h.html#a82147f490be598de1c7e41dd8d187c98abe011c8217488f33507397118e5a21f0", null ],
+      [ "WID_BRAD_DEPOT_NW", "db/d16/rail__widget_8h.html#a82147f490be598de1c7e41dd8d187c98ad4c312b398cbae3fd958db1b9a0520e3", null ]
+    ] ],
+    [ "BuildRailStationWidgets", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856a", [
+      [ "WID_BRAS_PLATFORM_DIR_X", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa30d4396e575267f3568e0a65b8280c89", null ],
+      [ "WID_BRAS_PLATFORM_DIR_Y", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa4cbe68e5347be89311347753f57e7047", null ],
+      [ "WID_BRAS_PLATFORM_NUM_1", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa64c0481d39a044a22b7d7a2b2f6eb460", null ],
+      [ "WID_BRAS_PLATFORM_NUM_2", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aad271661ed579ba4f58b3bfda5731ef17", null ],
+      [ "WID_BRAS_PLATFORM_NUM_3", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa879543038eee4c34c739c2c03720254c", null ],
+      [ "WID_BRAS_PLATFORM_NUM_4", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa2086e517f19e850bd7c007681e0f7a43", null ],
+      [ "WID_BRAS_PLATFORM_NUM_5", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa932bae095e077e5a4b518277a4b36342", null ],
+      [ "WID_BRAS_PLATFORM_NUM_6", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aaceb6c9ee2e371a4afa028d4b29c07b0a", null ],
+      [ "WID_BRAS_PLATFORM_NUM_7", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa2b032bf5e0c1e77637249c4cb77728f6", null ],
+      [ "WID_BRAS_PLATFORM_LEN_1", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aab06d753ebd3ccc42956c240aa4c2830d", null ],
+      [ "WID_BRAS_PLATFORM_LEN_2", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aae249d5ba29c6b4b9df3d456e8e1b620d", null ],
+      [ "WID_BRAS_PLATFORM_LEN_3", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa4616db574dad4c24ba3f259f87c56349", null ],
+      [ "WID_BRAS_PLATFORM_LEN_4", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aad2cb1070b66d10f7dc05bcaab6977a0f", null ],
+      [ "WID_BRAS_PLATFORM_LEN_5", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa90779e2a5f2247b128bc9f5e11d9d546", null ],
+      [ "WID_BRAS_PLATFORM_LEN_6", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa5c5a62a633da2c822e72d80d28f628ec", null ],
+      [ "WID_BRAS_PLATFORM_LEN_7", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aaca87ce2800770c92abb4ff5a7450f160", null ],
+      [ "WID_BRAS_PLATFORM_DRAG_N_DROP", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aab6840116ce19385c2cacdcbaf7dbad7c", null ],
+      [ "WID_BRAS_HIGHLIGHT_OFF", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa184da6aad79f23eec6ad0d6c2b03fa01", null ],
+      [ "WID_BRAS_HIGHLIGHT_ON", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aab2dce8703f36ac3dacadd55ed24acedf", null ],
+      [ "WID_BRAS_COVERAGE_TEXTS", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aaa1996ef6c1b5b73ffa372b5dde0f5549", null ],
+      [ "WID_BRAS_PLATFORM_NUM_BEGIN", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa846318af194e800a87452228933821b0", null ],
+      [ "WID_BRAS_PLATFORM_LEN_BEGIN", "db/d16/rail__widget_8h.html#a57cc2fd5b225dbb4faf1b8cda8d2856aa3f65800d7d352833839f17399535f166", null ]
+    ] ],
+    [ "BuildRailWaypointWidgets", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202d", [
+      [ "WID_BRW_FILTER", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202da9e1d6142b4dcaccd53b33e7bdee04f5f", null ],
+      [ "WID_BRW_WAYPOINT_MATRIX", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202da4c6038f3b4f66e7c53d8f5013df70fb2", null ],
+      [ "WID_BRW_WAYPOINT", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202dadd6728283167eca4cca7610ffa1081a2", null ],
+      [ "WID_BRW_SCROLL", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202dafa1a93bdf9d85561d63c21c668830a71", null ],
+      [ "WID_BRW_NAME", "db/d16/rail__widget_8h.html#a283f74267dd620c23636e210f3f1202da40110c3dcc05d1942979ce212b3d9eee", null ]
+    ] ],
+    [ "BuildSignalWidgets", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8c", [
+      [ "WID_BS_CAPTION", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cac49ca3416ab9cb80e94fa9eef95372cb", null ],
+      [ "WID_BS_SEMAPHORE_NORM", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca0cfb10585777c79b8c8004465e719c71", null ],
+      [ "WID_BS_SEMAPHORE_ENTRY", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca79aac3483c8b13683844d77ae33932b4", null ],
+      [ "WID_BS_SEMAPHORE_EXIT", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cadfac841e39a17da80d4f8f4ddfff82dd", null ],
+      [ "WID_BS_SEMAPHORE_COMBO", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cacaa325df800097a17da48e2d738ad738", null ],
+      [ "WID_BS_SEMAPHORE_PBS", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cad1a16e10cc4dc68c6ac8480a63450e4c", null ],
+      [ "WID_BS_SEMAPHORE_PBS_OWAY", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cae8a4fe55bcfc350db2b07456fd593bd9", null ],
+      [ "WID_BS_ELECTRIC_NORM", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca1ebc5a0e740dd86b8737ac9a079e7f3a", null ],
+      [ "WID_BS_ELECTRIC_ENTRY", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca78cb629f6d099e7e13b8bdd8ed852d16", null ],
+      [ "WID_BS_ELECTRIC_EXIT", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca22341a3fc765c049d565ac67115e4f86", null ],
+      [ "WID_BS_ELECTRIC_COMBO", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8caf891489fd4d5d1b98e45ac0c32d797ad", null ],
+      [ "WID_BS_ELECTRIC_PBS", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca0bbea0d3c7f80cfd3f272a04fb4cf9c2", null ],
+      [ "WID_BS_ELECTRIC_PBS_OWAY", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cafe2c64376ee71ad66dbe14664a7d87c0", null ],
+      [ "WID_BS_CONVERT", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8caf3a9f91f5dd9349889d8eaa312b4efda", null ],
+      [ "WID_BS_DRAG_SIGNALS_DENSITY_LABEL", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cad8dd66cbdbafce9dc409e498662c1d8c", null ],
+      [ "WID_BS_DRAG_SIGNALS_DENSITY_DECREASE", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8ca02cd855b08bf0447e3dc5a10c966a6a7", null ],
+      [ "WID_BS_DRAG_SIGNALS_DENSITY_INCREASE", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8caf024301026ea9c0d75a979e3f943491e", null ],
+      [ "WID_BS_BLOCK_SEL", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8caa0daf43397b91de0f47df83bd88de924", null ],
+      [ "WID_BS_BLOCK_SPACER_SEL", "db/d16/rail__widget_8h.html#a9b5bc8dce288eaff7aeaa4066404aa8cacb099f48418384a7233dae41b0dc4b90", null ]
+    ] ],
+    [ "RailToolbarWidgets", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0", [
+      [ "WID_RAT_CAPTION", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ab0014e88dbc4f50a652cb2cd9e1dcc2d", null ],
+      [ "WID_RAT_BUILD_NS", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a259235216d3a085a2fde6ba67ff86811", null ],
+      [ "WID_RAT_BUILD_X", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ad9c1637a728f6074422fe721ff9347b3", null ],
+      [ "WID_RAT_BUILD_EW", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a8120d4b58ae25da6379fe0aa3101def9", null ],
+      [ "WID_RAT_BUILD_Y", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a47a908ab17dd7745db98e514d73bff7c", null ],
+      [ "WID_RAT_AUTORAIL", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0af262735df80b4271be319da611a38c7c", null ],
+      [ "WID_RAT_DEMOLISH", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ac579b61a16a1bd25304dd10592dce82a", null ],
+      [ "WID_RAT_BUILD_DEPOT", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ab6ceea8cacb3aa74bf0583b54a7e6179", null ],
+      [ "WID_RAT_BUILD_WAYPOINT", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ab0d363914d27b8dfd29515b32fa89dd6", null ],
+      [ "WID_RAT_BUILD_STATION", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0ace0d60ff05aef2499d155b1acd68bb2f", null ],
+      [ "WID_RAT_BUILD_SIGNALS", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a05f84875b69055732a05ce92a8219939", null ],
+      [ "WID_RAT_BUILD_BRIDGE", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a8722211b5f9b79ccb8efd36aa97a3564", null ],
+      [ "WID_RAT_BUILD_TUNNEL", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0aee9ebb86d96f1f1063c1d265e7e87253", null ],
+      [ "WID_RAT_REMOVE", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a876b03a4d32c0f0a730ff921310dacb7", null ],
+      [ "WID_RAT_CONVERT_RAIL", "db/d16/rail__widget_8h.html#a30c97b727b18db7ce3773bc0e5d643d0a351eed1f35e01c4dd930701a60ecbca6", null ]
+    ] ]
+];

@@ -1,0 +1,67 @@
+var vehicle__widget_8h =
+[
+    [ "VehicleDetailsWidgets", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79", [
+      [ "WID_VD_CAPTION", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a3de5469e616d208dabdb2d1e68a9de1b", null ],
+      [ "WID_VD_TOP_DETAILS", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79abaa561a0e2c04ea3f2ff734414ccce30", null ],
+      [ "WID_VD_INCREASE_SERVICING_INTERVAL", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a74e962faa7a3c753e7554fb41b474758", null ],
+      [ "WID_VD_DECREASE_SERVICING_INTERVAL", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a121455544cc8552915b930e59c2753d7", null ],
+      [ "WID_VD_SERVICE_INTERVAL_DROPDOWN", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a44c5de42371721fcd24d1e5eb36ada76", null ],
+      [ "WID_VD_SERVICING_INTERVAL", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a94fa401e3a76e680baa696f22024bbb1", null ],
+      [ "WID_VD_MIDDLE_DETAILS", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79abcb72caf286cfa5db336cda99fb67b2f", null ],
+      [ "WID_VD_MATRIX", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a7a0ee3684ec84cb191e3d7c894218c31", null ],
+      [ "WID_VD_SCROLLBAR", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79ab1c1e1a89ed46952892ac48b224c832e", null ],
+      [ "WID_VD_DETAILS_CARGO_CARRIED", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79af33967b79f7d2092eed71957399b8f9d", null ],
+      [ "WID_VD_DETAILS_TRAIN_VEHICLES", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79a992300f70a58a5975522930c8b418cd2", null ],
+      [ "WID_VD_DETAILS_CAPACITY_OF_EACH", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79af2710c25d013cfab9b36376563ab9b48", null ],
+      [ "WID_VD_DETAILS_TOTAL_CARGO", "df/dce/vehicle__widget_8h.html#aee47d5f2f740969d2c05e9d856c68e79ab406184ad446e30018ece03540a0c624", null ]
+    ] ],
+    [ "VehicleListWidgets", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584", [
+      [ "WID_VL_CAPTION", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584ac306f5b1a908abf0add20c8f012887c5", null ],
+      [ "WID_VL_CAPTION_SHARED_ORDERS", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584ad795d99a7735eb37c24cc144482468c9", null ],
+      [ "WID_VL_CAPTION_SELECTION", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a571b17bce926e13adb71e80fab5a59de", null ],
+      [ "WID_VL_ORDER_VIEW", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584af1955fe5e052dbddc646210d2f75f406", null ],
+      [ "WID_VL_GROUP_ORDER", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584aa10a8d900fc2fef6beb034b1b322157d", null ],
+      [ "WID_VL_GROUP_BY_PULLDOWN", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a1ddb9068ae0fbe93d4821ad38cd7bbb6", null ],
+      [ "WID_VL_SORT_ORDER", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a7569e51d5a1040753778d232da501f72", null ],
+      [ "WID_VL_SORT_BY_PULLDOWN", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a00fe76795949477567fb04af3ec811ce", null ],
+      [ "WID_VL_FILTER_BY_CARGO", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a5cbe7a75b912d02285bd77dbed944bcc", null ],
+      [ "WID_VL_FILTER_BY_CARGO_SEL", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a0767c6696b0ae99bc53a2e007f661c0a", null ],
+      [ "WID_VL_LIST", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584ad1c9098a0ff2b5a6b20f0710b1ba4884", null ],
+      [ "WID_VL_SCROLLBAR", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584ab99e5103f3c426897c9e2c2c8f5d00be", null ],
+      [ "WID_VL_HIDE_BUTTONS", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a0ce5bb1f2611778d20e0d200d3d8db06", null ],
+      [ "WID_VL_AVAILABLE_VEHICLES", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a1f482fa34b5d4cf1cdcae8b105fe1b47", null ],
+      [ "WID_VL_MANAGE_VEHICLES_DROPDOWN", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a09f06a23728db94d83274c5b60f38591", null ],
+      [ "WID_VL_STOP_ALL", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a506fa96050f69f22154ccc8a86d70622", null ],
+      [ "WID_VL_START_ALL", "df/dce/vehicle__widget_8h.html#ad32d7a5e7d62dcc7ac440f55f922a584a03f834500b3f63e0e1e6094f25647220", null ]
+    ] ],
+    [ "VehicleRefitWidgets", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2", [
+      [ "WID_VR_CAPTION", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2ad8bb2b7b4bb635e0bbc54a9d9eb18a6c", null ],
+      [ "WID_VR_VEHICLE_PANEL_DISPLAY", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a479b55656c88a7fd7af79d157b83d858", null ],
+      [ "WID_VR_SHOW_HSCROLLBAR", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a2923eae52364efd434e2942bbb6dbc71", null ],
+      [ "WID_VR_HSCROLLBAR", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a4a2ba78ad2a8ca5329910e1961797407", null ],
+      [ "WID_VR_SELECT_HEADER", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a97548441ca8681d8cd88c31a09844c67", null ],
+      [ "WID_VR_MATRIX", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a1b6673d553f7b01184f7f1fdb085e627", null ],
+      [ "WID_VR_SCROLLBAR", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a1dc81032218bdd3998eaa38ee2005033", null ],
+      [ "WID_VR_INFO", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2ac0e31a16c64594c7c9189129466f73db", null ],
+      [ "WID_VR_REFIT", "df/dce/vehicle__widget_8h.html#a0f01999394d7fda1a5b3218958e340d2a6f95eb61ca42d1ab5bd2cea6a055ce07", null ]
+    ] ],
+    [ "VehicleViewWidgets", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401", [
+      [ "WID_VV_CAPTION", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a70d65eb0ff5a61202fe84eb5068c90ba", null ],
+      [ "WID_VV_VIEWPORT", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401aaf0188a4c138776db50da9852266e5b5", null ],
+      [ "WID_VV_START_STOP", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a852b11c56de32bf300dcb3e02cd0e424", null ],
+      [ "WID_VV_RENAME", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a256e0ddf2c3c0d86a9f822563a41fa40", null ],
+      [ "WID_VV_LOCATION", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a02b064f4630d01a73500851b2c749a8d", null ],
+      [ "WID_VV_ORDER_LOCATION", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a33b04495e3aede21716118fb190ded7b", null ],
+      [ "WID_VV_GOTO_DEPOT", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a01567b07957f3e61a9e4651555fca6dc", null ],
+      [ "WID_VV_REFIT", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a793328a4fde3f599d7db0808f03b6a67", null ],
+      [ "WID_VV_SHOW_ORDERS", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a4a63e8164614c5db472c74a1a059062c", null ],
+      [ "WID_VV_SHOW_DETAILS", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401aa0c785e675796da4ffcecf4555105aa3", null ],
+      [ "WID_VV_CLONE", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a56274d2d70161acaa7699d1b3bad794c", null ],
+      [ "WID_VV_SELECT_DEPOT_CLONE", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a1987b31d1df95e16a944adef0c2dad9e", null ],
+      [ "WID_VV_SELECT_REFIT_TURN", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a8b39d4fdfb21c66a56bdb01ee28c842e", null ],
+      [ "WID_VV_TURN_AROUND", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a07a2278cbe2f7874d3e614658b282844", null ],
+      [ "WID_VV_FORCE_PROCEED", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401a232d95b920f6eed4a89167f3cd155a06", null ],
+      [ "WID_VV_FORCE_PROCEED_SEL", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401ad2b5d0782be8c93133fc5cee4c34cc58", null ],
+      [ "WID_VV_HONK_HORN", "df/dce/vehicle__widget_8h.html#ae490bbabea1755132c34df792ce56401aca16148f054668856c18deb10e77e703", null ]
+    ] ]
+];

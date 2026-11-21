@@ -1,0 +1,26 @@
+var saveload__internal_8h =
+[
+    [ "AfterLoadCompanyStats", "d6/df7/saveload__internal_8h.html#abc852508188d2c574d777351e3f811c7", null ],
+    [ "AfterLoadLabelMaps", "d6/df7/saveload__internal_8h.html#afcec95608ba107dc9ee03bc534e786f6", null ],
+    [ "AfterLoadLinkGraphs", "d6/df7/saveload__internal_8h.html#a93da9e5898c7a5397dadc13e7fde27da", null ],
+    [ "AfterLoadRoadStops", "d6/df7/saveload__internal_8h.html#a9853ef8739f66c1d7896a85e692048f6", null ],
+    [ "AfterLoadStoryBook", "d6/df7/saveload__internal_8h.html#af16f7f1c32f35787cbce2588b17a064d", null ],
+    [ "AfterLoadVehiclesPhase1", "d6/df7/saveload__internal_8h.html#a1b4bb06c19cdfcea41fe7f342bae9d68", null ],
+    [ "AfterLoadVehiclesPhase2", "d6/df7/saveload__internal_8h.html#acb92b211d403d0af74ea6c459c870f10", null ],
+    [ "ConnectMultiheadedTrains", "d6/df7/saveload__internal_8h.html#a9208ae799abfc5b918fe0cf7b6963812", null ],
+    [ "ConvertFromOldCompanyManagerFace", "d6/df7/saveload__internal_8h.html#ac3224e52f7234dc1e6162cc41a29bf3d", null ],
+    [ "ConvertOldMultiheadToNew", "d6/df7/saveload__internal_8h.html#a78f6dac3a7c129567b52776b6d10f2ab", null ],
+    [ "CopyFromOldName", "d6/df7/saveload__internal_8h.html#aef31f449b208d69dede90f375f6cbba0", null ],
+    [ "CopyTempEngineData", "d6/df7/saveload__internal_8h.html#af9b0fa90a1485da4b0cf8212befe71d2", null ],
+    [ "FixupTrainLengths", "d6/df7/saveload__internal_8h.html#a357cde6fce59f0faefd7a0c6b26166fe", null ],
+    [ "InitializeOldNames", "d6/df7/saveload__internal_8h.html#aeec7ca9b3f3d213fa89b782f0d3cb298", null ],
+    [ "MoveBuoysToWaypoints", "d6/df7/saveload__internal_8h.html#a3c954f76d8d51c83da36ba7499a74c8c", null ],
+    [ "MoveWaypointsToBaseStations", "d6/df7/saveload__internal_8h.html#ac8c5af5a0239427826433004ece3fe9e", null ],
+    [ "RemapOldStringID", "d6/df7/saveload__internal_8h.html#a4357f8db5f17b0d0572c8e7d1b53d18e", null ],
+    [ "ResetOldNames", "d6/df7/saveload__internal_8h.html#a318bf310d1288020f9c9a69ff4c19932", null ],
+    [ "UnpackOldOrder", "d6/df7/saveload__internal_8h.html#a22d3d4d43e15838ac33d1c6339791c89", null ],
+    [ "UpdateHousesAndTowns", "d6/df7/saveload__internal_8h.html#ad456c5b194f2a01d539444616f10a58f", null ],
+    [ "UpdateOldAircraft", "d6/df7/saveload__internal_8h.html#a658dc5f0b156edc65f1afcecd0ecbe8a", null ],
+    [ "_savegame_type", "d6/df7/saveload__internal_8h.html#ab0504e56d591d788e2c5243fd247c0ec", null ],
+    [ "_ttdp_version", "d6/df7/saveload__internal_8h.html#a0bc5a61c14d8a1b462d2019631a262eb", null ]
+];

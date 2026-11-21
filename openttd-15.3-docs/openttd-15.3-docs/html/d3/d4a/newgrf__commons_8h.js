@@ -1,0 +1,57 @@
+var newgrf__commons_8h =
+[
+    [ "TileLayoutRegisters", "da/d2c/structTileLayoutRegisters.html", "da/d2c/structTileLayoutRegisters" ],
+    [ "NewGRFSpriteLayout", "de/d8d/structNewGRFSpriteLayout.html", "de/d8d/structNewGRFSpriteLayout" ],
+    [ "SpriteLayoutProcessor", "d0/d0b/classSpriteLayoutProcessor.html", "d0/d0b/classSpriteLayoutProcessor" ],
+    [ "EntityIDMapping", "d6/db5/structEntityIDMapping.html", "d6/db5/structEntityIDMapping" ],
+    [ "OverrideManagerBase", "da/d7e/classOverrideManagerBase.html", "da/d7e/classOverrideManagerBase" ],
+    [ "HouseOverrideManager", "d7/dc2/classHouseOverrideManager.html", "d7/dc2/classHouseOverrideManager" ],
+    [ "IndustryOverrideManager", "df/d05/classIndustryOverrideManager.html", "df/d05/classIndustryOverrideManager" ],
+    [ "IndustryTileOverrideManager", "d7/d71/classIndustryTileOverrideManager.html", null ],
+    [ "AirportOverrideManager", "d0/d72/classAirportOverrideManager.html", null ],
+    [ "AirportTileOverrideManager", "d7/de4/classAirportTileOverrideManager.html", null ],
+    [ "ObjectOverrideManager", "d6/d79/classObjectOverrideManager.html", "d6/d79/classObjectOverrideManager" ],
+    [ "GRFFilePropsBase", "da/d52/structGRFFilePropsBase.html", "da/d52/structGRFFilePropsBase" ],
+    [ "FixedGRFFileProps< Tkey, Tcount >", "df/d89/structFixedGRFFileProps.html", "df/d89/structFixedGRFFileProps" ],
+    [ "StandardGRFFileProps", "dc/de8/structStandardGRFFileProps.html", "dc/de8/structStandardGRFFileProps" ],
+    [ "VariableGRFFileProps< Tkey >", "df/d21/structVariableGRFFileProps.html", "df/d21/structVariableGRFFileProps" ],
+    [ "CargoGRFFileProps", "dd/d2f/structCargoGRFFileProps.html", "dd/d2f/structCargoGRFFileProps" ],
+    [ "SubstituteGRFFileProps", "dd/daa/structSubstituteGRFFileProps.html", "dd/daa/structSubstituteGRFFileProps" ],
+    [ "LabelObject< T >", "dd/d6c/structLabelObject.html", "dd/d6c/structLabelObject" ],
+    [ "StandardSpriteGroup", "d3/d4a/newgrf__commons_8h.html#a0f3301d8178c14c4ffda7c682d4ec0e4", [
+      [ "Default", "d3/d4a/newgrf__commons_8h.html#a0f3301d8178c14c4ffda7c682d4ec0e4a7a1920d61156abc05a60135aefe8bc67", null ],
+      [ "Purchase", "d3/d4a/newgrf__commons_8h.html#a0f3301d8178c14c4ffda7c682d4ec0e4a76b6a47a02685d51794b9fdb095512e5", null ],
+      [ "End", "d3/d4a/newgrf__commons_8h.html#a0f3301d8178c14c4ffda7c682d4ec0e4a87557f11575c0ad78e4e28abedc13b6e", null ]
+    ] ],
+    [ "TileContext", "d3/d4a/newgrf__commons_8h.html#a0598a92ae53b9793ae07af0d85334396", [
+      [ "TCX_NORMAL", "d3/d4a/newgrf__commons_8h.html#a0598a92ae53b9793ae07af0d85334396a6cbd699acc7b0b45af863959767a5d2a", null ],
+      [ "TCX_UPPER_HALFTILE", "d3/d4a/newgrf__commons_8h.html#a0598a92ae53b9793ae07af0d85334396a1b08e426925fbd073c08331307d89821", null ],
+      [ "TCX_ON_BRIDGE", "d3/d4a/newgrf__commons_8h.html#a0598a92ae53b9793ae07af0d85334396a23e7c2bdc8e73936ac58c371306ee7d2", null ]
+    ] ],
+    [ "TileLayoutFlags", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bc", [
+      [ "TLF_NOTHING", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca562b8ae9d0ccd14318e2476eecaf0c7f", null ],
+      [ "TLF_DODRAW", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca4acd7ba34828d36590b0c2e188f2a7ad", null ],
+      [ "TLF_SPRITE", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca3279d6acde89c180782cfffa1415dc4a", null ],
+      [ "TLF_PALETTE", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcaed4981c6bb60832abb7fb6665b8f76c4", null ],
+      [ "TLF_CUSTOM_PALETTE", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca229886944ec02e9885f7f6567d9130af", null ],
+      [ "TLF_BB_XY_OFFSET", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca88458e3dbac30d86e18d85b3b3a64482", null ],
+      [ "TLF_BB_Z_OFFSET", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca0b9610932c88e67645d8fdc51f9d783a", null ],
+      [ "TLF_CHILD_X_OFFSET", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca3fdfb8fddfbd1c0ffea56384d048d48e", null ],
+      [ "TLF_CHILD_Y_OFFSET", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcaf1014658bc29a76c1bc74091bea79045", null ],
+      [ "TLF_SPRITE_VAR10", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcad60767b4c5483f0369ed0db5adebf6f8", null ],
+      [ "TLF_PALETTE_VAR10", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcab0e540d50d4345ce8a3042f789910120", null ],
+      [ "TLF_KNOWN_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcad85a3e68b219d3c292c42da8b992e24b", null ],
+      [ "TLF_DRAWING_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca453b1509f6966320073fd72c3c202c66", null ],
+      [ "TLF_NON_GROUND_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca83357a38d97f78bb813177a020899839", null ],
+      [ "TLF_VAR10_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bcada0bf9f9f144c8c1c7d638708e11e1e2", null ],
+      [ "TLF_SPRITE_REG_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca8a69b63f4d0592f1de1b196094394d03", null ],
+      [ "TLF_PALETTE_REG_FLAGS", "d3/d4a/newgrf__commons_8h.html#a1d81ec7312f83f76acba968ddc0673bca56dc0b77296043914075c9a5eed3c70c", null ]
+    ] ],
+    [ "ErrorUnknownCallbackResult", "d3/d4a/newgrf__commons_8h.html#a5744ea88587a5ebf8fa24ad941055d7b", null ],
+    [ "GetConstructionStageOffset", "d3/d4a/newgrf__commons_8h.html#a9eb946b35cd28b0cc2b868279508ab1e", null ],
+    [ "GetErrorMessageFromLocationCallbackResult", "d3/d4a/newgrf__commons_8h.html#a765d303cd0d4be0ed516dc5a48cd7b3c", null ],
+    [ "GetNearbyTile", "d3/d4a/newgrf__commons_8h.html#ae6664d3d48211e1a50dfacbbb26d600b", null ],
+    [ "GetNearbyTileInformation", "d3/d4a/newgrf__commons_8h.html#a8e5c5507892e62939d31e7c1df0b0021", null ],
+    [ "GetTerrainType", "d3/d4a/newgrf__commons_8h.html#a7f4ed329b566e299717ca76b1591a3bc", null ],
+    [ "TLR_MAX_VAR10", "d3/d4a/newgrf__commons_8h.html#a27ebb5aa8fa7471ada68d9b17f49910f", null ]
+];

@@ -1,0 +1,87 @@
+var network__widget_8h =
+[
+    [ "ClientListWidgets", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402", [
+      [ "WID_CL_PANEL", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a7db8a46161146cc635d32c389be68008", null ],
+      [ "WID_CL_SERVER_SELECTOR", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a6f71aae7aa39950dbc196bfafb60321b", null ],
+      [ "WID_CL_SERVER_NAME", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a1721964e636fcb02044303a07cdc8514", null ],
+      [ "WID_CL_SERVER_NAME_EDIT", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a57b9b326e5bf21777f839a1a669b0c25", null ],
+      [ "WID_CL_SERVER_VISIBILITY", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402ac9742cf1cc8fce5d161b2ed5e24a1941", null ],
+      [ "WID_CL_SERVER_INVITE_CODE", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a4dc164da5930434fd6b8aad01460bf0d", null ],
+      [ "WID_CL_SERVER_CONNECTION_TYPE", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402aa6d69a0209d1484c38e3d80a69199802", null ],
+      [ "WID_CL_CLIENT_NAME", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a5c4c13efbd0ff075faec9ba37ada7090", null ],
+      [ "WID_CL_CLIENT_NAME_EDIT", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a1535cc632f2c0d42d127c41eb7b74d59", null ],
+      [ "WID_CL_MATRIX", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402aea5a9e03b531711f77364e845ebc255f", null ],
+      [ "WID_CL_SCROLLBAR", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a793906ba62b2dee25d35316292397e4d", null ],
+      [ "WID_CL_CLIENT_COMPANY_COUNT", "d8/d61/network__widget_8h.html#a65906cbc6d1da77d91470212219ee402a84a2ded727522b007af854fe20b0c4c2", null ]
+    ] ],
+    [ "NetworkAskRelayWidgets", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266c", [
+      [ "WID_NAR_CAPTION", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266caf42810db487b9b65165f96f35cb55874", null ],
+      [ "WID_NAR_TEXT", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266ca843bf6deb3217984a0c8032d92f48df7", null ],
+      [ "WID_NAR_NO", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266cad83e00996ad9a25421386df406c7eb86", null ],
+      [ "WID_NAR_YES_ONCE", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266caa611074f0d3cc08652f38764996f0fe2", null ],
+      [ "WID_NAR_YES_ALWAYS", "d8/d61/network__widget_8h.html#ae2eb1bef95c85ebf17342bf82cd4266ca6441daaba82914a6b017b7b1ac1b7e47", null ]
+    ] ],
+    [ "NetworkAskSurveyWidgets", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746a", [
+      [ "WID_NAS_CAPTION", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aa5fdfc7b9581e1f60bbb9195874753492", null ],
+      [ "WID_NAS_TEXT", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aa31ccad4d948c35b92a79ab754146731b", null ],
+      [ "WID_NAS_PREVIEW", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aae3009913cad06cfb0b603958316fe317", null ],
+      [ "WID_NAS_LINK", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aa2f52701477e06b1695ffd51374f1210f", null ],
+      [ "WID_NAS_NO", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aadac8b20151820fcef989fd8003a4ac38", null ],
+      [ "WID_NAS_YES", "d8/d61/network__widget_8h.html#af80a52aa08893e78cbfed03c76cc746aa1fd957b97d690b0b02dfbbbf94386c8f", null ]
+    ] ],
+    [ "NetworkGameWidgets", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698d", [
+      [ "WID_NG_MAIN", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698dae339fd8e9f719c6ddf901bb94c4b51de", null ],
+      [ "WID_NG_CLIENT_LABEL", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da889aadba558c30fb4c4a8e7b6c0c8223", null ],
+      [ "WID_NG_CLIENT", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da01e09e0e470d066e3d251dd2706e1844", null ],
+      [ "WID_NG_FILTER_LABEL", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da3fc1425dfcc3c7e9485ff0dd4754ccef", null ],
+      [ "WID_NG_FILTER", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daebb244c75fe9fdc629db7d10fffdb97f", null ],
+      [ "WID_NG_NAME", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698dac2f3e2da170056945967ed1018181dec", null ],
+      [ "WID_NG_CLIENTS", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da0c8b7ae545cc8d28496ecdb0a73c6bb9", null ],
+      [ "WID_NG_MAPSIZE", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daa397f817c0c224f0a2ef56226ef81f84", null ],
+      [ "WID_NG_DATE", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da778cc29c33284d902b62a17aec6ce631", null ],
+      [ "WID_NG_YEARS", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da33996241b9a4c8673b68f363d3f55ddf", null ],
+      [ "WID_NG_INFO", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daaebaead8491d0963e77eb03865ae8e8d", null ],
+      [ "WID_NG_MATRIX", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da7ae8bb002bbbc1fd44d277fa6a9013c8", null ],
+      [ "WID_NG_SCROLLBAR", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da1eef989849fa807d1147ad49fd1cf967", null ],
+      [ "WID_NG_LASTJOINED_LABEL", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daf12260e504eb69235b5ff7073b3dd296", null ],
+      [ "WID_NG_LASTJOINED", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da79b38375b7fa9faa22536d799179ff21", null ],
+      [ "WID_NG_LASTJOINED_SPACER", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da766140d28c203c81dd00613d0318fc3a", null ],
+      [ "WID_NG_DETAILS", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daa5dc5cd8b103625f6c0d686e0cc969b4", null ],
+      [ "WID_NG_JOIN", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da940e7423adc7abc1aae0bd4e21d23879", null ],
+      [ "WID_NG_REFRESH", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698dae3561e0bd887108906a495b424250d6c", null ],
+      [ "WID_NG_NEWGRF", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daf3554c1b58b78df1c0226a4984539cdc", null ],
+      [ "WID_NG_NEWGRF_SEL", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da8e6e742407c970c624e570ce41164ad7", null ],
+      [ "WID_NG_NEWGRF_MISSING", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da73f1afe6899c6f7d2c1fc4cf7ecadce7", null ],
+      [ "WID_NG_NEWGRF_MISSING_SEL", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da49f296666543b39ad4eaa56ac16637eb", null ],
+      [ "WID_NG_SEARCH_INTERNET", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da6360191c2445934ed47c1338f77e1f31", null ],
+      [ "WID_NG_SEARCH_LAN", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698da9fd10a1b8af7610cd67dc15923be1152", null ],
+      [ "WID_NG_ADD", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698dacf12ff8dd6f1b4158f22c746a47a91a1", null ],
+      [ "WID_NG_START", "d8/d61/network__widget_8h.html#a576129ad998a357c5291284e3fb1698daa522a2402d1ac27481caa2057fd5f746", null ]
+    ] ],
+    [ "NetworkJoinStatusWidgets", "d8/d61/network__widget_8h.html#a28a078469bb1faa9592a43ca2a0a286e", [
+      [ "WID_NJS_PROGRESS_BAR", "d8/d61/network__widget_8h.html#a28a078469bb1faa9592a43ca2a0a286ea0e5cb69867927fa0c63fcbbed0551810", null ],
+      [ "WID_NJS_PROGRESS_TEXT", "d8/d61/network__widget_8h.html#a28a078469bb1faa9592a43ca2a0a286ea7637c0ed616d1d95b55b5c4b98c052df", null ],
+      [ "WID_NJS_CANCELOK", "d8/d61/network__widget_8h.html#a28a078469bb1faa9592a43ca2a0a286eab1657760fc411c762cc227baee73e013", null ]
+    ] ],
+    [ "NetworkStartServerWidgets", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1", [
+      [ "WID_NSS_BACKGROUND", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1af52d2afb64869e427d62a35bc17c9974", null ],
+      [ "WID_NSS_GAMENAME_LABEL", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a867bda307263cbf4967419baabed42f5", null ],
+      [ "WID_NSS_GAMENAME", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a508cd3b44b352da718f8f83db274cf3c", null ],
+      [ "WID_NSS_SETPWD", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1ad519409efa1ecf8b9493f068136e198d", null ],
+      [ "WID_NSS_CONNTYPE_LABEL", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1ac5324995abb303eeb4480730f93b1f9e", null ],
+      [ "WID_NSS_CONNTYPE_BTN", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1ac8b47c2be7e1e0ac5c13db3c9b866e29", null ],
+      [ "WID_NSS_CLIENTS_LABEL", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a200a60df467983743c7da56957d4419e", null ],
+      [ "WID_NSS_CLIENTS_BTND", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a4fb8af97abbb32965b935dacfc7fb71b", null ],
+      [ "WID_NSS_CLIENTS_TXT", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a4dd014db65815066da2ec59568218f32", null ],
+      [ "WID_NSS_CLIENTS_BTNU", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1aeafeb1fceaa8af11999def1eb102d8fe", null ],
+      [ "WID_NSS_COMPANIES_LABEL", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a1e368de3d28b73fe0429e2e97f982463", null ],
+      [ "WID_NSS_COMPANIES_BTND", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1ad3c55eb8d34c14d367d7cf20f04b012c", null ],
+      [ "WID_NSS_COMPANIES_TXT", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1aed786417e69a6faa1b3f2efb9313ee91", null ],
+      [ "WID_NSS_COMPANIES_BTNU", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a14679fea39052542c828cde07428e5b9", null ],
+      [ "WID_NSS_GENERATE_GAME", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1ac1a6d8a773fe7fc6a808aa02af5a4901", null ],
+      [ "WID_NSS_LOAD_GAME", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1aa7a9a1ad4a8a9be1dd96aa067a1479fc", null ],
+      [ "WID_NSS_PLAY_SCENARIO", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1af6414f0ac0bc6d27e392143eeb747c73", null ],
+      [ "WID_NSS_PLAY_HEIGHTMAP", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a7062ae05eeb8b6ad9be6946d1cab5e79", null ],
+      [ "WID_NSS_CANCEL", "d8/d61/network__widget_8h.html#aae8f115471106e4eff0f71eaf4e0bba1a6d36e6ba137e2e41abb57509f85e16c6", null ]
+    ] ]
+];
